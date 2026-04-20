@@ -1,0 +1,42 @@
+---
+publish: true
+created: 2025-08-17T11:14:04.098-05:00
+modified: 2025-08-17T11:34:49.765-05:00
+---
+
+> [!infobox]
+>
+> # Striving Against All
+>
+> # <font size=3>\*\*</font>
+>
+> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+>
+> ###### Basic Information
+>
+> Type |  Stat |
+> \---|---|
+> Alternative Names |  |
+> Leader |  |
+> Parent Organization |   |
+> Type |  |
+> Founding Date |  |
+> Disbandment |  |
+
+# Activists Against Everything
+
+## History
+
+## Agenda
+
+## Diplomacy and Relations
+
+## Structure
+
+## Resources
+
+## Territory and Location
+
+## Perception
+
+## Notes

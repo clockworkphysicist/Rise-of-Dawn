@@ -1,0 +1,32 @@
+---
+publish: true
+created: 2025-08-21T16:48:17.713-05:00
+modified: 2025-08-21T16:48:23.654-05:00
+---
+
+> [!infobox]
+>
+> # Adventurer
+>
+> # <font size=3>\*\*</font>
+>
+> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+>
+> ###### Basic Information
+>
+> Type |  Stat |
+> \---|---|
+> Alternative Names |  |
+> Associated Organizations |  |
+
+# Class
+
+## Requirements
+
+## Abilities
+
+## Resources
+
+## Progression
+
+## Notes

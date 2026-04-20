@@ -1,0 +1,42 @@
+---
+publish: true
+created: 2025-08-17T11:50:36.215-05:00
+modified: 2025-08-17T11:51:47.711-05:00
+---
+
+> [!infobox]
+>
+> # United in their Craft
+>
+> # <font size=3>\*\*</font>
+>
+> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+>
+> ###### Basic Information
+>
+> Type |  Stat |
+> \---|---|
+> Alternative Names |  |
+> Leader |  |
+> Parent Organization |   |
+> Type |  |
+> Founding Date |  |
+> Disbandment |  |
+
+# The Guilds
+
+## History
+
+## Agenda
+
+## Diplomacy and Relations
+
+## Structure
+
+## Resources
+
+## Territory and Location
+
+## Perception
+
+## Notes
