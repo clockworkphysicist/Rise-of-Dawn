@@ -2,3 +2,10 @@
 @use "./syncer";
 
 // put your custom CSS here!
+@font-face {
+  font-family: "Cyrodiil";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("/static/Cyrodiil.otf") format("otf");
+}
