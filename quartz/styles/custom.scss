@@ -12,3 +12,7 @@ body  {
     local("/static/Cyrodiil.otf"),
     url("/static/Cyrodiil.otf") format("opentype") tech(color-COLRv1);
 }
+:root {
+  --headerFont: "Cyrodill" !important;
+  --bodyFont: "Cyrodill" !important;
+}
