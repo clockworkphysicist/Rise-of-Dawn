@@ -376,34 +376,3 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
     </div>
   )
 }
-
-import { joinSegments, QUARTZ } from "../path"
-import fs from "fs"
-import path from "path"
- 
-const newsreaderFontPath = joinSegments(QUARTZ, "static", "Cyrodiil.otf")
-export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: FontSpecification) {
-  // ... rest of implementation remains same
-  const fonts: SatoriOptions["fonts"] = [
-    ...headerFontData.map((data, idx) => ({
-      name: headerFontName,
-      data,
-      weight: headerWeights[idx],
-      style: "normal" as const,
-    })),
-    ...bodyFontData.map((data, idx) => ({
-      name: bodyFontName,
-      data,
-      weight: bodyWeights[idx],
-      style: "normal" as const,
-    })),
-    {
-      name: "Cyrodiil",
-      data: await fs.promises.readFile(path.resolve(newsreaderFontPath)),
-      weight: 400,
-      style: "normal" as const,
-    },
-  ]
- 
-  return fonts
-}
