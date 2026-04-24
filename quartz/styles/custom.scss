@@ -9,8 +9,8 @@ body  {
 @font-face {
   font-family: "Cyrodiil";
   src:
-    local("/static/Cyrodiil.otf"),
-    url("/static/Cyrodiil.otf") format("opentype") tech(color-COLRv1);
+    local("/Rise-of-Dawn/static/Cyrodiil.otf"),
+    url("/Rise-of-Dawn/static/Cyrodiil.otf") format("opentype") tech(color-COLRv1);
 }
 :root {
   --headerFont: "Cyrodiil" !important;
