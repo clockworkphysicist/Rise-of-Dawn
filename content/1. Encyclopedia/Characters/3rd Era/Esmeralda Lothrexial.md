@@ -10,7 +10,7 @@ modified: 2025-10-07T13:11:28.646-05:00
 >
 > # <font size=3>_Emerald Everything_</font>
 >
-> ![[z_Assets/Chara/Esmeralda.png]]
+> ![[Assets/Chara/Esmeralda.png]]
 >
 > ###### Basic Information
 >

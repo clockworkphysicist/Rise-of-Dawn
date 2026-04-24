@@ -10,7 +10,7 @@ modified: 2025-08-18T17:03:01.807-05:00
 >
 > # <font size=3>_Honor or Death_</font>
 >
-> ![[z_Assets/Chara/Albion.png]]
+> ![[Assets/Chara/Albion.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T23:09:27.234-05:00
 >
 > # <font size=3>_Nothing To Lose But Your Chains_</font>
 >
-> ![[z_Assets/Chara/Pyotr.png]]
+> ![[Assets/Chara/Pyotr.png]]
 >
 > ###### Basic Information
 >

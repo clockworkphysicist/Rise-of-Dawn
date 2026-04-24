@@ -10,7 +10,7 @@ modified: 2025-10-05T17:27:44.177-05:00
 >
 > # <font size=3>_Vengeance from beyond the Grave_</font>
 >
-> ![[z_Assets/Chara/Onryo.png]]
+> ![[Assets/Chara/Onryo.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-13T19:41:14.849-05:00
 >
 > # <font size=3>_See No Evil_</font>
 >
-> ![[z_Assets/Chara/Vivian.png]]
+> ![[Assets/Chara/Vivian.png]]
 >
 > ###### Basic Information
 >

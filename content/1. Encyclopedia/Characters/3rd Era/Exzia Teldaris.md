@@ -10,7 +10,7 @@ modified: 2025-10-10T23:27:09.557-05:00
 >
 > # <font size=3>_Dungeon Keeper_</font>
 >
-> ![[z_Assets/Chara/Exzia.png]]
+> ![[Assets/Chara/Exzia.png]]
 >
 > ###### Basic Information
 >

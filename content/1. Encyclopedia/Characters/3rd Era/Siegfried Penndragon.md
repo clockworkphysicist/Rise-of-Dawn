@@ -10,7 +10,7 @@ modified: 2025-12-22T15:47:07.010-06:00
 >
 > # <font size=3>_The Guiding Light_</font>
 >
-> ![[z_Assets/Chara/Siegfried.png]]
+> ![[Assets/Chara/Siegfried.png]]
 >
 > ###### Basic Information
 >

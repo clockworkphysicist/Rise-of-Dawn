@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:52:48.864-05:00
-modified: 2026-04-19T13:53:11.389-05:00
+modified: 2026-04-24T11:39:15.021-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2026-04-19T13:53:11.389-05:00
 >
 > # <font size=3>_In You, I Can Find My Home_</font>
 >
-> ![[z_Assets/Chara/Adiinya.png]]
+> ![[Assets/Chara/Adiinya.png|229x576]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-08-20T13:42:32.316-05:00
 >
 > # <font size=3>_One Shot, One Kill, Never Miss, Never Will_</font>
 >
-> ![[z_Assets/Chara/Julia.png]]
+> ![[Assets/Chara/Julia.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-12-22T15:39:07.425-06:00
 >
 > # <font size=3>_Sbubby_</font>
 >
-> ![[z_Assets/Chara/Sbubby.png]]
+> ![[Assets/Chara/Sbubby.png]]
 >
 > ###### Basic Information
 >

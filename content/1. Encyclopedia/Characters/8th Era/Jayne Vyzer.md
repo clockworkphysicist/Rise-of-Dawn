@@ -10,7 +10,7 @@ modified: 2026-04-19T13:46:04.253-05:00
 >
 > # <font size=3>_Look Down_</font>
 >
-> ![[z_Assets/Chara/Jayne.png]]
+> ![[Assets/Chara/Jayne.png]]
 >
 > ###### Basic Information
 >

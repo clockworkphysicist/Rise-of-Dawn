@@ -10,7 +10,7 @@ modified: 2026-04-14T11:53:06.502-05:00
 >
 > # <font size=3>_Magic_</font>
 >
-> ![[z_Assets/Chara/Nemo.png]]
+> ![[Assets/Chara/Nemo.png]]
 >
 > ###### Basic Information
 >

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:12:12.760-05:00
-modified: 2025-08-28T13:29:50.978-05:00
+modified: 2026-04-21T10:34:12.213-05:00
 ---
 
 > [!infobox]
 >
 > # Daemonids
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

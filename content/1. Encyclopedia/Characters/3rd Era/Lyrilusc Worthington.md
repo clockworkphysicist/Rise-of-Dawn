@@ -10,7 +10,7 @@ modified: 2025-10-12T03:12:51.946-05:00
 >
 > # <font size=3>_A Night at the Opera_</font>
 >
-> ![[z_Assets/Chara/Lyrilusc.png]]
+> ![[Assets/Chara/Lyrilusc.png]]
 >
 > ###### Basic Information
 >

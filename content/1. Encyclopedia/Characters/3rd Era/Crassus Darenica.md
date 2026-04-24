@@ -10,7 +10,7 @@ modified: 2026-04-11T00:34:14.685-05:00
 >
 > # <font size=3>_The Hidden Judge_</font>
 >
-> ![[z_Assets/Chara/Crassus.png]]
+> ![[Assets/Chara/Crassus.png]]
 >
 > ###### Basic Information
 >

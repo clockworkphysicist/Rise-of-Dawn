@@ -10,7 +10,7 @@ modified: 2026-04-14T12:15:33.452-05:00
 >
 > # <font size=3>_The Anointed Vessel_</font>
 >
-> ![[z_Assets/Chara/The Deciever.png]]
+> ![[Assets/Chara/The Deciever.png]]
 >
 > ###### Basic Information
 >

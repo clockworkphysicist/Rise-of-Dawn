@@ -10,7 +10,7 @@ modified: 2026-04-17T10:51:58.684-05:00
 >
 > # <font size=3>_A Mans Responsibility_</font>
 >
-> ![[z_Assets/Chara/Trevor.png]]
+> ![[Assets/Chara/Trevor.png]]
 >
 > ###### Basic Information
 >

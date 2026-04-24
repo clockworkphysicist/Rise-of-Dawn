@@ -10,7 +10,7 @@ modified: 2026-04-17T00:35:37.952-05:00
 >
 > # <font size=3>_There Is No Puppet Aware of It's Strings_</font>
 >
-> ![[z_Assets/Chara/Susan.png]]
+> ![[Assets/Chara/Susan.png]]
 >
 > ###### Basic Information
 >

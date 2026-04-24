@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:15:36.427-05:00
-modified: 2025-08-28T02:16:31.177-05:00
+modified: 2026-04-21T10:34:11.597-05:00
 ---
 
 > [!infobox]
 >
 > # The Kill Zone
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

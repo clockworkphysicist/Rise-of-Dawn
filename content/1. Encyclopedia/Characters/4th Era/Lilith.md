@@ -10,7 +10,7 @@ modified: 2026-04-14T12:16:26.369-05:00
 >
 > # <font size=3>_The Serpents Disciple_</font>
 >
-> ![[z_Assets/Chara/Lilith.png]]
+> ![[Assets/Chara/Lilith.png]]
 >
 > ###### Basic Information
 >

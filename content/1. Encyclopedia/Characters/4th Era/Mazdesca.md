@@ -10,7 +10,7 @@ modified: 2025-08-20T14:40:09.896-05:00
 >
 > # <font size=3>_Thrill Seeking Sadist_</font>
 >
-> ![[z_Assets/Chara/Mazdesca.png]]
+> ![[Assets/Chara/Mazdesca.png]]
 >
 > ###### Basic Information
 >

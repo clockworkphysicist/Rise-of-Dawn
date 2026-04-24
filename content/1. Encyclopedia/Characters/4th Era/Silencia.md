@@ -10,7 +10,7 @@ modified: 2026-04-14T12:39:15.620-05:00
 >
 > # <font size=3>_Silence in Moonlight_</font>
 >
-> ![[z_Assets/Chara/Silencia.png]]
+> ![[Assets/Chara/Silencia.png]]
 >
 > ###### Basic Information
 >

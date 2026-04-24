@@ -10,7 +10,7 @@ modified: 2026-04-17T10:53:12.343-05:00
 >
 > # <font size=3>_Beauty in Form_</font>
 >
-> ![[z_Assets/Chara/Tzekzia.png]]
+> ![[Assets/Chara/Tzekzia.png]]
 >
 > ###### Basic Information
 >

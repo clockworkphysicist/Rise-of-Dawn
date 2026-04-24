@@ -10,7 +10,7 @@ modified: 2025-08-20T13:30:48.779-05:00
 >
 > # <font size=3>_Dark Knight of the Soul_</font>
 >
-> ![[z_Assets/Chara/Azazel.png]]
+> ![[Assets/Chara/Azazel.png]]
 >
 > ###### Basic Information
 >

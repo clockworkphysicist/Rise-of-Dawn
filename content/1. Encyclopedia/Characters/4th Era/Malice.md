@@ -10,7 +10,7 @@ modified: 2026-04-14T12:20:31.899-05:00
 >
 > # <font size=3>_The Desecration of Honor_</font>
 >
-> ![[z_Assets/Chara/Malice.png]]
+> ![[Assets/Chara/Malice.png]]
 >
 > ###### Basic Information
 >

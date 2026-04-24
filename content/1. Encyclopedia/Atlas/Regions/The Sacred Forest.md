@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:27:04.444-05:00
-modified: 2025-08-28T02:27:16.820-05:00
+modified: 2026-04-21T10:34:11.609-05:00
 ---
 
 > [!infobox]
 >
 > # The Sacred Forest
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

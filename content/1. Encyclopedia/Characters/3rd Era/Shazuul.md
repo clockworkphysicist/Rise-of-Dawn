@@ -10,7 +10,7 @@ modified: 2025-12-22T15:44:56.012-06:00
 >
 > # <font size=3>_The Shark of Death_</font>
 >
-> ![[z_Assets/Chara/Shazuul.png]]
+> ![[Assets/Chara/Shazuul.png]]
 >
 > ###### Basic Information
 >

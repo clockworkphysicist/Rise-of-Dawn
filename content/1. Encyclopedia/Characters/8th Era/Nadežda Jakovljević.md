@@ -10,7 +10,7 @@ modified: 2026-04-19T13:48:55.891-05:00
 >
 > # <font size=3>_Analysis Complete._</font>
 >
-> ![[z_Assets/Chara/Nadežda.png]]
+> ![[Assets/Chara/Nadežda.png]]
 >
 > ###### Basic Information
 >

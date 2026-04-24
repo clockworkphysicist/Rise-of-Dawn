@@ -10,7 +10,7 @@ modified: 2026-04-18T12:02:04.387-05:00
 >
 > # <font size=3>_I am the god of hellfire._</font>
 >
-> ![[z_Assets/Chara/Ifrit.png]]
+> ![[Assets/Chara/Ifrit.png]]
 >
 > ###### Basic Information
 >

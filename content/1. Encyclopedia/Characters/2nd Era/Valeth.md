@@ -10,7 +10,7 @@ modified: 2025-10-05T17:33:49.103-05:00
 >
 > # <font size=3>_Speaker of the Dead_</font>
 >
-> ![[z_Assets/Chara/Valeth.png]]
+> ![[Assets/Chara/Valeth.png]]
 >
 > ###### Basic Information
 >

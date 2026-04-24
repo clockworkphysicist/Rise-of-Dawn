@@ -10,7 +10,7 @@ modified: 2025-10-05T17:16:31.074-05:00
 >
 > # <font size=3>_Maiden of Glimmering Light_</font>
 >
-> ![[z_Assets/Chara/Lilyan.png]]
+> ![[Assets/Chara/Lilyan.png]]
 >
 > ###### Basic Information
 >

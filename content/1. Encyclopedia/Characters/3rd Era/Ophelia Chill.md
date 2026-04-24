@@ -10,7 +10,7 @@ modified: 2025-12-22T12:14:04.962-06:00
 >
 > # <font size=3>_Keeper of the Book of Ages_</font>
 >
-> ![[z_Assets/Chara/Ophelia Chill.png]]
+> ![[Assets/Chara/Ophelia Chill.png]]
 >
 > ###### Basic Information
 >

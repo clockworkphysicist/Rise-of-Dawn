@@ -10,7 +10,7 @@ modified: 2026-04-19T12:20:35.779-05:00
 >
 > # <font size=3>_Honk_</font>
 >
-> ![[z_Assets/Chara/Pumbus.png]]
+> ![[Assets/Chara/Pumbus.png]]
 >
 > ###### Basic Information
 >

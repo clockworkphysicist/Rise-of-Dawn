@@ -10,7 +10,7 @@ modified: 2026-04-19T12:02:23.887-05:00
 >
 > # <font size=3>_Phantom Pain_</font>
 >
-> ![[z_Assets/Chara/Massrah.png]]
+> ![[Assets/Chara/Massrah.png]]
 >
 > ###### Basic Information
 >

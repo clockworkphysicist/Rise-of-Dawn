@@ -10,7 +10,7 @@ modified: 2026-04-19T12:11:11.687-05:00
 >
 > # <font size=3>_The Giant Rat That Makes All of the Rules_</font>
 >
-> ![[z_Assets/Chara/Piper.png]]
+> ![[Assets/Chara/Piper.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-11T00:27:20.306-05:00
 >
 > # <font size=3>_Blood and Scars_</font>
 >
-> ![[z_Assets/Chara/Braya.png]]
+> ![[Assets/Chara/Braya.png]]
 >
 > ###### Basic Information
 >

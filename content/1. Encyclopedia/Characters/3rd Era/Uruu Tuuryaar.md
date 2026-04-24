@@ -10,7 +10,7 @@ modified: 2026-04-13T19:08:55.050-05:00
 >
 > # <font size=3>_Through Dust and Fire_</font>
 >
-> ![[z_Assets/Chara/Uruu.png]]
+> ![[Assets/Chara/Uruu.png]]
 >
 > ###### Basic Information
 >

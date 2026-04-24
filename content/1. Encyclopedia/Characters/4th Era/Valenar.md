@@ -10,7 +10,7 @@ modified: 2026-04-14T12:39:42.263-05:00
 >
 > # <font size=3>_Glory of the Light_</font>
 >
-> ![[z_Assets/Chara/Valenar.png]]
+> ![[Assets/Chara/Valenar.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-19T12:46:20.622-05:00
 >
 > # <font size=3>_Chat, Clip That_</font>
 >
-> ![[z_Assets/Chara/Selina.png]]
+> ![[Assets/Chara/Selina.png]]
 >
 > ###### Basic Information
 >

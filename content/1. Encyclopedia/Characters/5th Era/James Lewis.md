@@ -10,7 +10,7 @@ modified: 2026-04-16T23:03:16.067-05:00
 >
 > # <font size=3>_Believes the Sun has Risen_</font>
 >
-> ![[z_Assets/Chara/Prof. Lewis.png]]
+> ![[Assets/Chara/Prof. Lewis.png]]
 >
 > ###### Basic Information
 >

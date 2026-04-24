@@ -10,7 +10,7 @@ modified: 2025-10-07T02:56:44.217-05:00
 >
 > # <font size=3>_All Things Reduced to their Purest Form_</font>
 >
-> ![[z_Assets/Chara/Columbina.png]]
+> ![[Assets/Chara/Columbina.png]]
 >
 > ###### Basic Information
 >

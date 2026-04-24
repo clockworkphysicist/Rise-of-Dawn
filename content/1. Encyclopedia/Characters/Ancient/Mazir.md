@@ -10,7 +10,7 @@ modified: 2026-04-10T23:19:27.458-05:00
 >
 > # <font size=3>_He Knows Much_</font>
 >
-> ![[z_Assets/Chara/Mazir.png]]
+> ![[Assets/Chara/Mazir.png]]
 >
 > ###### Basic Information
 >

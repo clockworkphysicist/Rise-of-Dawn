@@ -10,7 +10,7 @@ modified: 2026-04-16T22:55:34.544-05:00
 >
 > # <font size=3>_Worth a Thousand Words_</font>
 >
-> ![[z_Assets/Chara/Pointe.png]]
+> ![[Assets/Chara/Pointe.png]]
 >
 > ###### Basic Information
 >

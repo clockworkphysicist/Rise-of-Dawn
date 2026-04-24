@@ -10,7 +10,7 @@ modified: 2025-10-04T01:46:36.075-05:00
 >
 > # <font size=3>_The All Loving Maiden of Death_</font>
 >
-> ![[z_Assets/Chara/Estelle.png]]
+> ![[Assets/Chara/Estelle.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-12-22T12:20:56.592-06:00
 >
 > # <font size=3>_Keeper of the Imperial Home_</font>
 >
-> ![[z_Assets/Chara/Percival.png]]
+> ![[Assets/Chara/Percival.png]]
 >
 > ###### Basic Information
 >

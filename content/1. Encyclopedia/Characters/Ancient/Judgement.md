@@ -10,7 +10,7 @@ modified: 2026-04-10T22:19:41.333-05:00
 >
 > # <font size=3>_The Final_</font>
 >
-> ![[z_Assets/Chara/20 XX, Judgement.png]]
+> ![[Assets/Chara/20 XX, Judgement.png]]
 >
 > ###### Basic Information
 >

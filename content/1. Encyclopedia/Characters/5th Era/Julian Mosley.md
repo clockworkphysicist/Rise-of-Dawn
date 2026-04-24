@@ -10,7 +10,7 @@ modified: 2026-04-19T14:09:44.400-05:00
 >
 > # <font size=3>_A Common Sense, An Exceptional Mind_</font>
 >
-> ![[z_Assets/Chara/Officer Julian Mosley.png]]
+> ![[Assets/Chara/Officer Julian Mosley.png]]
 >
 > ###### Basic Information
 >

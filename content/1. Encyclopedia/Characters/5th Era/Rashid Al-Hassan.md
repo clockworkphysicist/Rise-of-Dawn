@@ -10,7 +10,7 @@ modified: 2026-04-16T23:13:43.568-05:00
 >
 > # <font size=3>_Trust Your Skills, If Nothing Else_</font>
 >
-> ![[z_Assets/Chara/Rashid.png]]
+> ![[Assets/Chara/Rashid.png]]
 >
 > ###### Basic Information
 >

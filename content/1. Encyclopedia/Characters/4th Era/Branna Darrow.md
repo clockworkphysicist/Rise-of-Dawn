@@ -10,7 +10,7 @@ modified: 2026-04-14T11:40:39.727-05:00
 >
 > # <font size=3>_Clarity in Shadow_</font>
 >
-> ![[z_Assets/Chara/Branna.png]]
+> ![[Assets/Chara/Branna.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-19T12:19:44.820-05:00
 >
 > # <font size=3>_A Moment on the Lips_</font>
 >
-> ![[z_Assets/Chara/Priscilla.png]]
+> ![[Assets/Chara/Priscilla.png]]
 >
 > ###### Basic Information
 >

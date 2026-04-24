@@ -10,7 +10,7 @@ modified: 2025-10-07T12:30:18.792-05:00
 >
 > # <font size=3>_Inner World of Simplicity_</font>
 >
-> ![[z_Assets/Chara/Decimus.png]]
+> ![[Assets/Chara/Decimus.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T22:33:54.247-05:00
 >
 > # <font size=3>_Don't You Remember? It's me._</font>
 >
-> ![[z_Assets/Chara/Maximillian.png]]
+> ![[Assets/Chara/Maximillian.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T10:33:07.243-05:00
 >
 > # <font size=3>_Beauty in the Chaos_</font>
 >
-> ![[z_Assets/Chara/Alyssa.png]]
+> ![[Assets/Chara/Alyssa.png]]
 >
 > ###### Basic Information
 >

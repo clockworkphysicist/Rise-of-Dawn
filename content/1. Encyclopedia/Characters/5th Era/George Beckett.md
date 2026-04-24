@@ -10,7 +10,7 @@ modified: 2026-04-14T13:59:35.289-05:00
 >
 > # <font size=3>_I Work and Breath Among the Fumes that Trail Across the Sky_</font>
 >
-> ![[z_Assets/Chara/George.png]]
+> ![[Assets/Chara/George.png]]
 >
 > ###### Basic Information
 >

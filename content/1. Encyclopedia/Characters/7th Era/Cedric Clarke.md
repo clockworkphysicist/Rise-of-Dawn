@@ -10,7 +10,7 @@ modified: 2026-04-17T13:24:41.570-05:00
 >
 > # <font size=3>_What you won't do for love_</font>
 >
-> ![[z_Assets/Chara/Cedric.png]]
+> ![[Assets/Chara/Cedric.png]]
 >
 > ###### Basic Information
 >

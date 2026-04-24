@@ -10,7 +10,7 @@ modified: 2026-04-19T14:07:14.300-05:00
 >
 > # <font size=3>_A Stiff Drink_</font>
 >
-> ![[z_Assets/Chara/Neely.png]]
+> ![[Assets/Chara/Neely.png]]
 >
 > ###### Basic Information
 >

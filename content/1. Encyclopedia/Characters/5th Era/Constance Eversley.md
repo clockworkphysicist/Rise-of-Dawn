@@ -10,7 +10,7 @@ modified: 2026-04-14T13:31:31.600-05:00
 >
 > # <font size=3>_Smokestack Lightning_</font>
 >
-> ![[z_Assets/Chara/Constance.png]]
+> ![[Assets/Chara/Constance.png]]
 >
 > ###### Basic Information
 >

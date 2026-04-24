@@ -10,7 +10,7 @@ modified: 2025-10-06T22:01:40.569-05:00
 >
 > # <font size=3>_The Lady of Everywhere_</font>
 >
-> ![[z_Assets/Chara/Bellatrix.png]]
+> ![[Assets/Chara/Bellatrix.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-05T17:29:32.906-05:00
 >
 > # <font size=3>_To Suffer in Silence_</font>
 >
-> ![[z_Assets/Chara/Tasshaa.png]]
+> ![[Assets/Chara/Tasshaa.png]]
 >
 > ###### Basic Information
 >

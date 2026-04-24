@@ -10,7 +10,7 @@ modified: 2026-04-14T11:55:36.151-05:00
 >
 > # <font size=3>_The Blade in the Night_</font>
 >
-> ![[z_Assets/Chara/Espada.png]]
+> ![[Assets/Chara/Espada.png]]
 >
 > ###### Basic Information
 >

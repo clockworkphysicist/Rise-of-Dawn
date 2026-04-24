@@ -10,7 +10,7 @@ modified: 2026-04-17T13:56:20.262-05:00
 >
 > # <font size=3>_The Light of Midnight Blue_</font>
 >
-> ![[z_Assets/Chara/Chise.png]]
+> ![[Assets/Chara/Chise.png]]
 >
 > ###### Basic Information
 >

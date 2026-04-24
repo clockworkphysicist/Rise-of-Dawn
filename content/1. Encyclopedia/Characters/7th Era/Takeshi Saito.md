@@ -10,7 +10,7 @@ modified: 2026-04-19T12:54:32.846-05:00
 >
 > # <font size=3>_50/50 Shot_</font>
 >
-> ![[z_Assets/Chara/Takeshi.png]]
+> ![[Assets/Chara/Takeshi.png]]
 >
 > ###### Basic Information
 >

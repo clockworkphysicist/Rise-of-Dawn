@@ -10,7 +10,7 @@ modified: 2025-10-15T13:18:27.157-05:00
 >
 > # <font size=3>_A Candle in the Dark_</font>
 >
-> ![[z_Assets/Chara/Moricia.png]]
+> ![[Assets/Chara/Moricia.png]]
 >
 > ###### Basic Information
 >

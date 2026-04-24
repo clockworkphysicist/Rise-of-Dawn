@@ -10,7 +10,7 @@ modified: 2025-12-22T14:56:59.231-06:00
 >
 > # <font size=3>_The Butterfly Maiden_</font>
 >
-> ![[z_Assets/Chara/Rosaria.png]]
+> ![[Assets/Chara/Rosaria.png]]
 >
 > ###### Basic Information
 >

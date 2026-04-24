@@ -10,7 +10,7 @@ modified: 2025-12-22T15:54:17.908-06:00
 >
 > # <font size=3>_The Hidden Trap_</font>
 >
-> ![[z_Assets/Chara/Soren.png]]
+> ![[Assets/Chara/Soren.png]]
 >
 > ###### Basic Information
 >

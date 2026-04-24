@@ -10,7 +10,7 @@ modified: 2026-04-17T11:35:48.498-05:00
 >
 > # <font size=3>_Fun Ideas and Lots of Different Ways_</font>
 >
-> ![[z_Assets/Chara/Thrash.png]]
+> ![[Assets/Chara/Thrash.png]]
 >
 > ###### Basic Information
 >

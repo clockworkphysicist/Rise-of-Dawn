@@ -10,7 +10,7 @@ modified: 2026-04-19T14:03:28.533-05:00
 >
 > # <font size=3>_Let Me Play You a Tune_</font>
 >
-> ![[z_Assets/Chara/Jezza.png]]
+> ![[Assets/Chara/Jezza.png]]
 >
 > ###### Basic Information
 >

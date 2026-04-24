@@ -10,7 +10,7 @@ modified: 2026-04-16T23:05:24.396-05:00
 >
 > # <font size=3>_Merit is Earned, Not Given_</font>
 >
-> ![[z_Assets/Chara/Prudence.png]]
+> ![[Assets/Chara/Prudence.png]]
 >
 > ###### Basic Information
 >

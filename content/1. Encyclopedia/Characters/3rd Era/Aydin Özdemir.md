@@ -10,7 +10,7 @@ modified: 2025-10-05T18:44:11.854-05:00
 >
 > # <font size=3>_The Inkwell of Knowledge_</font>
 >
-> ![[z_Assets/Chara/Aydin.png]]
+> ![[Assets/Chara/Aydin.png]]
 >
 > ###### Basic Information
 >

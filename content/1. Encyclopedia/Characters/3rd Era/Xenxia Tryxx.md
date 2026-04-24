@@ -10,7 +10,7 @@ modified: 2026-04-13T19:53:56.993-05:00
 >
 > # <font size=3>_Viciousness in Madness_</font>
 >
-> ![[z_Assets/Chara/Xenxia.png]]
+> ![[Assets/Chara/Xenxia.png]]
 >
 > ###### Basic Information
 >

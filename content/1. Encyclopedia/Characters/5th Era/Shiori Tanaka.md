@@ -10,7 +10,7 @@ modified: 2025-08-26T12:52:26.929-05:00
 >
 > # <font size=3>_Medicine for the Sick_</font>
 >
-> ![[z_Assets/Chara/Shiori.png]]
+> ![[Assets/Chara/Shiori.png]]
 >
 > ###### Basic Information
 >

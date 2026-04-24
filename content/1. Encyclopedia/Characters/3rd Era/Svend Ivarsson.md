@@ -10,7 +10,7 @@ modified: 2025-12-22T21:06:02.338-06:00
 >
 > # <font size=3>_Seeking a Silent Song_</font>
 >
-> ![[z_Assets/Chara/Svend.png]]
+> ![[Assets/Chara/Svend.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-12T03:04:12.123-05:00
 >
 > # <font size=3>_Keeper of Laws_</font>
 >
-> ![[z_Assets/Chara/Luna.png]]
+> ![[Assets/Chara/Luna.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T10:50:42.367-05:00
 >
 > # <font size=3>_The Elder Sprocket_</font>
 >
-> ![[z_Assets/Chara/Tick.png]]
+> ![[Assets/Chara/Tick.png]]
 >
 > ###### Basic Information
 >

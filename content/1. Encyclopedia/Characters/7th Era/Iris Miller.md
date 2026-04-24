@@ -10,7 +10,7 @@ modified: 2026-04-18T12:06:33.417-05:00
 >
 > # <font size=3>_Imagination requires planning._</font>
 >
-> ![[z_Assets/Chara/Iris.png]]
+> ![[Assets/Chara/Iris.png]]
 >
 > ###### Basic Information
 >

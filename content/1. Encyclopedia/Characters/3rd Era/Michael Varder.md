@@ -10,7 +10,7 @@ modified: 2025-10-14T02:40:46.358-05:00
 >
 > # <font size=3>_Paradox and Praxis_</font>
 >
-> ![[z_Assets/Chara/Michael.png]]
+> ![[Assets/Chara/Michael.png]]
 >
 > ###### Basic Information
 >

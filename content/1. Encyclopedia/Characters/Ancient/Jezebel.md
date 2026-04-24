@@ -10,7 +10,7 @@ modified: 2026-04-10T22:18:32.954-05:00
 >
 > # <font size=3>_The Ruined Priestess of Solomon_</font>
 >
-> ![[z_Assets/Chara/2 II, The High Priestess (Jezebel).png]]
+> ![[Assets/Chara/2 II, The High Priestess (Jezebel).png]]
 >
 > ###### Basic Information
 >

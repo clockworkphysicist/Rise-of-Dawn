@@ -10,7 +10,7 @@ modified: 2026-04-16T22:41:49.964-05:00
 >
 > # <font size=3>_It's Me._</font>
 >
-> ![[z_Assets/Chara/Nora(True).png]]
+> ![[Assets/Chara/Nora(True).png]]
 >
 > ###### Basic Information
 >

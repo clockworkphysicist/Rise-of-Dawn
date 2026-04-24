@@ -10,7 +10,7 @@ modified: 2026-04-19T13:54:06.050-05:00
 >
 > # <font size=3>_Lucky Guess_</font>
 >
-> ![[z_Assets/Chara/Alexia Bradt.png]]
+> ![[Assets/Chara/Alexia Bradt.png]]
 >
 > ###### Basic Information
 >

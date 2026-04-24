@@ -10,7 +10,7 @@ modified: 2025-10-11T10:39:30.555-05:00
 >
 > # <font size=3>_The Artisanal Arcane_</font>
 >
-> ![[z_Assets/Chara/Georgette.png]]
+> ![[Assets/Chara/Georgette.png]]
 >
 > ###### Basic Information
 >

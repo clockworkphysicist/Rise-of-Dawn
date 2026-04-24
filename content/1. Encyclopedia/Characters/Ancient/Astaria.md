@@ -10,7 +10,7 @@ modified: 2025-10-03T17:35:02.387-05:00
 >
 > # <font size=3>_The All Knowing Queen of the Divine_</font>
 >
-> ![[z_Assets/Chara/Astaria.png]]
+> ![[Assets/Chara/Astaria.png]]
 >
 > ###### Basic Information
 >

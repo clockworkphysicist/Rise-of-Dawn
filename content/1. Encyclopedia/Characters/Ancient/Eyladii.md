@@ -10,7 +10,7 @@ modified: 2025-10-04T01:57:09.007-05:00
 >
 > # <font size=3>_Seer of Eternity_</font>
 >
-> ![[z_Assets/Chara/Eyladii.png]]
+> ![[Assets/Chara/Eyladii.png]]
 >
 > ###### Basic Information
 >

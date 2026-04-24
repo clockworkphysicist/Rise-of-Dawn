@@ -10,7 +10,7 @@ modified: 2025-10-05T17:00:43.378-05:00
 >
 > # <font size=3>_Wanderer of the Winding Roads_</font>
 >
-> ![[z_Assets/Chara/Animarcus.png]]
+> ![[Assets/Chara/Animarcus.png]]
 >
 > ###### Basic Information
 >

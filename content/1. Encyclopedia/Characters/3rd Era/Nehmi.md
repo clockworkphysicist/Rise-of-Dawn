@@ -10,7 +10,7 @@ modified: 2025-12-17T21:48:46.594-06:00
 >
 > # <font size=3>_Guardian of Secrets_</font>
 >
-> ![[z_Assets/Chara/Nehmi.png]]
+> ![[Assets/Chara/Nehmi.png]]
 >
 > ###### Basic Information
 >

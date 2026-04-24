@@ -10,7 +10,7 @@ modified: 2025-10-05T15:58:17.143-05:00
 >
 > # <font size=3>_Rider of the Rain_</font>
 >
-> ![[z_Assets/Chara/Avex.png]]
+> ![[Assets/Chara/Avex.png]]
 >
 > ###### Basic Information
 >

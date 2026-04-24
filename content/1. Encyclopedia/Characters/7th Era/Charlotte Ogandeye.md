@@ -10,7 +10,7 @@ modified: 2026-04-17T13:45:49.205-05:00
 >
 > # <font size=3>_Companionship is more than presence_</font>
 >
-> ![[z_Assets/Chara/Charlotte.png]]
+> ![[Assets/Chara/Charlotte.png]]
 >
 > ###### Basic Information
 >

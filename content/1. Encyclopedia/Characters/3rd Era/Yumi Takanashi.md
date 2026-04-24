@@ -10,7 +10,7 @@ modified: 2026-04-13T20:01:01.887-05:00
 >
 > # <font size=3>_Boundless Energy_</font>
 >
-> ![[z_Assets/Chara/Yumi.png]]
+> ![[Assets/Chara/Yumi.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-08-26T17:13:16.469-05:00
 >
 > # <font size=3>_Red Sun Over Paradise_</font>
 >
-> ![[z_Assets/Chara/Tyrant.png]]
+> ![[Assets/Chara/Tyrant.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-13T19:21:24.736-05:00
 >
 > # <font size=3>_Noi Vogliam Dio_</font>
 >
-> ![[z_Assets/Chara/Valen.png]]
+> ![[Assets/Chara/Valen.png]]
 >
 > ###### Basic Information
 >

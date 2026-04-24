@@ -10,7 +10,7 @@ modified: 2025-10-07T12:44:43.609-05:00
 >
 > # <font size=3>_Nurturing Femininity_</font>
 >
-> ![[z_Assets/Chara/Elara.png]]
+> ![[Assets/Chara/Elara.png]]
 >
 > ###### Basic Information
 >

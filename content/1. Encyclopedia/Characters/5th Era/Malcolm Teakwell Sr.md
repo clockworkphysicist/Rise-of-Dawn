@@ -10,7 +10,7 @@ modified: 2026-04-16T13:39:10.417-05:00
 >
 > # <font size=3>_The Exemplar_</font>
 >
-> ![[z_Assets/Chara/Malcolm Teakwell Sr.png]]
+> ![[Assets/Chara/Malcolm Teakwell Sr.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-05T17:09:11.649-05:00
 >
 > # <font size=3>_The Knower of the Self_</font>
 >
-> ![[z_Assets/Chara/Fundarius.png]]
+> ![[Assets/Chara/Fundarius.png]]
 >
 > ###### Basic Information
 >

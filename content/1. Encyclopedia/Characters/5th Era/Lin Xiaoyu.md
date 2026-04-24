@@ -10,7 +10,7 @@ modified: 2026-04-14T14:26:40.973-05:00
 >
 > # <font size=3>_Cosmic Gulfs It Throws Open Our Frenzied Eyes_</font>
 >
-> ![[z_Assets/Chara/Lin.png]]
+> ![[Assets/Chara/Lin.png]]
 >
 > ###### Basic Information
 >

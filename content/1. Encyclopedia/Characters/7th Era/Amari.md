@@ -10,7 +10,7 @@ modified: 2026-04-17T11:44:38.747-05:00
 >
 > # <font size=3>_Deep Down Inside, I Feel the Scream_</font>
 >
-> ![[z_Assets/Chara/Amari.png]]
+> ![[Assets/Chara/Amari.png]]
 >
 > ###### Basic Information
 >

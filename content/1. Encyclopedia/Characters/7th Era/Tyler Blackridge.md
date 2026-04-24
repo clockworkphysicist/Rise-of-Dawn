@@ -10,7 +10,7 @@ modified: 2026-04-19T12:57:52.198-05:00
 >
 > # <font size=3>_Let's Go_</font>
 >
-> ![[z_Assets/Chara/Tyler.png]]
+> ![[Assets/Chara/Tyler.png]]
 >
 > ###### Basic Information
 >

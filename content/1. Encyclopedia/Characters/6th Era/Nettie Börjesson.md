@@ -10,7 +10,7 @@ modified: 2026-04-17T11:20:03.739-05:00
 >
 > # <font size=3>_Vi sitter här i venten och spelar lite DotA_</font>
 >
-> ![[z_Assets/Chara/Nettie.png]]
+> ![[Assets/Chara/Nettie.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T22:54:40.165-05:00
 >
 > # <font size=3>_All Aboard_</font>
 >
-> ![[z_Assets/Chara/Pearce.png]]
+> ![[Assets/Chara/Pearce.png]]
 >
 > ###### Basic Information
 >

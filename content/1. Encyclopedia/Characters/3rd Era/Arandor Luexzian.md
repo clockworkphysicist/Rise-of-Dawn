@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-10-05T18:21:59.766-05:00
-modified: 2025-10-05T18:24:01.839-05:00
+modified: 2026-04-24T11:40:04.779-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2025-10-05T18:24:01.839-05:00
 >
 > # <font size=3>_Knowledge Beyond Years_</font>
 >
-> ![[z_Assets/Chara/Arandor.png]]
+> ![[Assets/Chara/Arandor.png|219x727]]
 >
 > ###### Basic Information
 >

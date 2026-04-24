@@ -10,7 +10,7 @@ modified: 2025-10-05T18:51:08.183-05:00
 >
 > # <font size=3>_A Majestic and Magnanimous Narcissist_</font>
 >
-> ![[z_Assets/Chara/Bella.png]]
+> ![[Assets/Chara/Bella.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T13:06:46.276-05:00
 >
 > # <font size=3>_Wish Me Luck_</font>
 >
-> ![[z_Assets/Chara/Udachi.png]]
+> ![[Assets/Chara/Udachi.png]]
 >
 > ###### Basic Information
 >

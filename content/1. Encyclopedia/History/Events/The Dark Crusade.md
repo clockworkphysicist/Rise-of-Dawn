@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T01:48:37.188-05:00
-modified: 2025-08-28T01:49:01.902-05:00
+modified: 2026-04-21T10:34:12.630-05:00
 ---
 
 > [!infobox]
 >
 > # The Dark Crusade
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

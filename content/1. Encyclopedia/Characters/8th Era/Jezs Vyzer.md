@@ -10,7 +10,7 @@ modified: 2026-04-19T13:46:36.939-05:00
 >
 > # <font size=3>_You're Talking To Your Highness_</font>
 >
-> ![[z_Assets/Chara/Jezs.png]]
+> ![[Assets/Chara/Jezs.png]]
 >
 > ###### Basic Information
 >

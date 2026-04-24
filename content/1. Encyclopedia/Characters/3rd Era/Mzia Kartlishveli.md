@@ -10,7 +10,7 @@ modified: 2025-10-15T13:32:21.038-05:00
 >
 > # <font size=3>_Feeling Blue_</font>
 >
-> ![[z_Assets/Chara/Mzia.png]]
+> ![[Assets/Chara/Mzia.png]]
 >
 > ###### Basic Information
 >

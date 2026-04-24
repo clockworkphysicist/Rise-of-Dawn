@@ -10,7 +10,7 @@ modified: 2026-04-17T12:05:18.004-05:00
 >
 > # <font size=3>_The Bad Doctor_</font>
 >
-> ![[z_Assets/Chara/Ingenio.png]]
+> ![[Assets/Chara/Ingenio.png]]
 >
 > ###### Basic Information
 >

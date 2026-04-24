@@ -10,7 +10,7 @@ modified: 2025-08-28T01:38:21.908-05:00
 >
 > # <font size=3>_Power Within Conflict_</font>
 >
-> ![[z_Assets/Chara/Kiera.png]]
+> ![[Assets/Chara/Kiera.png]]
 >
 > ###### Basic Information
 >

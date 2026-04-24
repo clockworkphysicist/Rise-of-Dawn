@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T15:23:10.716-05:00
-modified: 2025-08-28T15:25:45.873-05:00
+modified: 2026-04-21T10:34:12.922-05:00
 ---
 
 > [!infobox]
 >
 > # Magic Crafting
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

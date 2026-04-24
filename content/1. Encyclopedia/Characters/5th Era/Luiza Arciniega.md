@@ -10,7 +10,7 @@ modified: 2026-04-14T20:56:00.909-05:00
 >
 > # <font size=3>_Living Memory_</font>
 >
-> ![[z_Assets/Chara/Luisa.png]]
+> ![[Assets/Chara/Luisa.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-19T12:24:31.201-05:00
 >
 > # <font size=3>_One in a Million_</font>
 >
-> ![[z_Assets/Chara/Raymond.png]]
+> ![[Assets/Chara/Raymond.png]]
 >
 > ###### Basic Information
 >

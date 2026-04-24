@@ -10,7 +10,7 @@ modified: 2025-08-21T00:11:26.761-05:00
 >
 > # <font size=3>_In Nocturnal Rapport_</font>
 >
-> ![[z_Assets/Chara/Aleister.png]]
+> ![[Assets/Chara/Aleister.png]]
 >
 > ###### Basic Information
 >

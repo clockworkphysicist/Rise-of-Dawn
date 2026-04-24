@@ -10,7 +10,7 @@ modified: 2026-04-17T10:54:31.870-05:00
 >
 > # <font size=3>_More Equal Than Others_</font>
 >
-> ![[z_Assets/Chara/Viktoria.png]]
+> ![[Assets/Chara/Viktoria.png]]
 >
 > ###### Basic Information
 >

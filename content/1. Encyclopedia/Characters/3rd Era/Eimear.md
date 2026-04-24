@@ -10,7 +10,7 @@ modified: 2025-10-07T12:42:19.715-05:00
 >
 > # <font size=3>_Legacy's End_</font>
 >
-> ![[z_Assets/Chara/Eimear.png]]
+> ![[Assets/Chara/Eimear.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-07T02:36:59.118-05:00
 >
 > # <font size=3>_Tomb Raider_</font>
 >
-> ![[z_Assets/Chara/Carlos.png]]
+> ![[Assets/Chara/Carlos.png]]
 >
 > ###### Basic Information
 >

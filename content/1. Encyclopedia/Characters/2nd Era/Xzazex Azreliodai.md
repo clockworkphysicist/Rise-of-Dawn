@@ -10,7 +10,7 @@ modified: 2025-10-05T17:38:04.827-05:00
 >
 > # <font size=3>_Over Hill and Dale for Adventure_</font>
 >
-> ![[z_Assets/Chara/Xzazex.png]]
+> ![[Assets/Chara/Xzazex.png]]
 >
 > ###### Basic Information
 >

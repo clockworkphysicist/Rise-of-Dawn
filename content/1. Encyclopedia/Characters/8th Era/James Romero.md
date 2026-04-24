@@ -10,7 +10,7 @@ modified: 2025-08-26T13:00:40.188-05:00
 >
 > # <font size=3>_Going Back to the Start_</font>
 >
-> ![[z_Assets/Chara/James.png]]
+> ![[Assets/Chara/James.png]]
 >
 > ###### Basic Information
 >

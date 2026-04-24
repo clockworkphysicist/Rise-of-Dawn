@@ -10,7 +10,7 @@ modified: 2026-04-14T13:52:47.272-05:00
 >
 > # <font size=3>_Castle Doctrine_</font>
 >
-> ![[z_Assets/Chara/Flint.png]]
+> ![[Assets/Chara/Flint.png]]
 >
 > ###### Basic Information
 >

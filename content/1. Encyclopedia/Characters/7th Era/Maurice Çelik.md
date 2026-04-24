@@ -10,7 +10,7 @@ modified: 2026-04-17T13:17:32.434-05:00
 >
 > # <font size=3>_I am all of me_</font>
 >
-> ![[z_Assets/Chara/Black Darkness the Shadow Edge.png]]
+> ![[Assets/Chara/Black Darkness the Shadow Edge.png]]
 >
 > ###### Basic Information
 >

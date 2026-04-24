@@ -8,7 +8,7 @@ modified: 2025-08-28T02:13:48.826-05:00
 >
 > # Alenican Pass
 >
-> ![[z_Assets/Misc/Ascalon Highlands.jpg]]
+> ![[Assets/Misc/Ascalon Highlands.jpg]]
 >
 > ###### Basic Information
 >

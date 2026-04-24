@@ -10,7 +10,7 @@ modified: 2025-10-12T02:02:09.799-05:00
 >
 > # <font size=3>_See them study, watch them learn_</font>
 >
-> ![[z_Assets/Chara/Ignatius Mortimer Meen.png]]
+> ![[Assets/Chara/Ignatius Mortimer Meen.png]]
 >
 > ###### Basic Information
 >

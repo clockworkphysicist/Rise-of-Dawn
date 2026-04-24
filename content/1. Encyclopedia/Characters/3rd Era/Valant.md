@@ -10,7 +10,7 @@ modified: 2026-04-13T19:12:24.693-05:00
 >
 > # <font size=3>_Unbreakable Pain_</font>
 >
-> ![[z_Assets/Chara/Valant.png]]
+> ![[Assets/Chara/Valant.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-05T16:43:20.186-05:00
 >
 > # <font size=3>_Bestial Desire_</font>
 >
-> ![[z_Assets/Chara/Vedma.png]]
+> ![[Assets/Chara/Vedma.png]]
 >
 > ###### Basic Information
 >

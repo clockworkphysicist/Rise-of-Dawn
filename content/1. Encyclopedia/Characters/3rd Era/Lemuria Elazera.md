@@ -10,7 +10,7 @@ modified: 2025-08-21T00:42:55.867-05:00
 >
 > # <font size=3>_The Dancer and the Moon_</font>
 >
-> ![[z_Assets/Chara/Lemuria.png]]
+> ![[Assets/Chara/Lemuria.png]]
 >
 > ###### Basic Information
 >

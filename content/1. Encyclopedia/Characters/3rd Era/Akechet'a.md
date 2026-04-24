@@ -10,7 +10,7 @@ modified: 2025-08-20T13:33:47.481-05:00
 >
 > # <font size=3>_The Avenging Jaguar_</font>
 >
-> ![[z_Assets/Chara/Akechet'a.png]]
+> ![[Assets/Chara/Akechet'a.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T09:52:13.217-05:00
 >
 > # <font size=3>_The Phoenix Rising_</font>
 >
-> ![[z_Assets/Chara/Thaddius.png]]
+> ![[Assets/Chara/Thaddius.png]]
 >
 > ###### Basic Information
 >

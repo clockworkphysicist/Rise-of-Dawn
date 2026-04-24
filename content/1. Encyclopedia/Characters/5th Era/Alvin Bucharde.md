@@ -10,7 +10,7 @@ modified: 2026-04-14T12:51:34.051-05:00
 >
 > # <font size=3>_Flesh and Blood_</font>
 >
-> ![[z_Assets/Chara/Alvin.png]]
+> ![[Assets/Chara/Alvin.png]]
 >
 > ###### Basic Information
 >

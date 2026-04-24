@@ -10,7 +10,7 @@ modified: 2026-04-11T01:14:43.989-05:00
 >
 > # <font size=3>_Pratinidhi Jīvamūrti of the Parayam Darshan_</font>
 >
-> ![[z_Assets/Chara/Samira.png]]
+> ![[Assets/Chara/Samira.png]]
 >
 > ###### Basic Information
 >

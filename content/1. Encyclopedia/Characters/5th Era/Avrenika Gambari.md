@@ -10,7 +10,7 @@ modified: 2026-04-14T13:02:59.410-05:00
 >
 > # <font size=3>_Peerless Attorney_</font>
 >
-> ![[z_Assets/Chara/Avrenika.png]]
+> ![[Assets/Chara/Avrenika.png]]
 >
 > ###### Basic Information
 >

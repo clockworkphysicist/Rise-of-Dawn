@@ -10,7 +10,7 @@ modified: 2026-04-10T23:25:49.698-05:00
 >
 > # <font size=3>_The Eternally Falling Dragon_</font>
 >
-> ![[z_Assets/Chara/Tiamat.png]]
+> ![[Assets/Chara/Tiamat.png]]
 >
 > ###### Basic Information
 >

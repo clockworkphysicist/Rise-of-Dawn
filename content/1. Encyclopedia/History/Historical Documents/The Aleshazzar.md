@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T01:52:32.600-05:00
-modified: 2025-08-28T01:53:10.027-05:00
+modified: 2026-04-21T10:34:12.705-05:00
 ---
 
 > [!infobox]
 >
 > # The Aleshazzar
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

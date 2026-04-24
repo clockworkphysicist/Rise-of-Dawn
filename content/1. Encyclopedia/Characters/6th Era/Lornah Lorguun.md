@@ -10,7 +10,7 @@ modified: 2026-04-17T11:08:55.929-05:00
 >
 > # <font size=3>_Icy Cold_</font>
 >
-> ![[z_Assets/Chara/Lornah.png]]
+> ![[Assets/Chara/Lornah.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T12:35:13.387-05:00
 >
 > # <font size=3>_King of the Waves_</font>
 >
-> ![[z_Assets/Chara/Sidon.png]]
+> ![[Assets/Chara/Sidon.png]]
 >
 > ###### Basic Information
 >

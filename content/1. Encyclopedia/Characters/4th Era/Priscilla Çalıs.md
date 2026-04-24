@@ -10,7 +10,7 @@ modified: 2026-04-14T12:32:09.925-05:00
 >
 > # <font size=3>_Bones in the Ocean_</font>
 >
-> ![[z_Assets/Chara/Penny.png]]
+> ![[Assets/Chara/Penny.png]]
 >
 > ###### Basic Information
 >

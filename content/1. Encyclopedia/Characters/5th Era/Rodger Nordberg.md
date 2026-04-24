@@ -10,7 +10,7 @@ modified: 2026-04-17T00:28:35.452-05:00
 >
 > # <font size=3>_There Was A Hole Here, It's Gone Now_</font>
 >
-> ![[z_Assets/Chara/Rodger.png]]
+> ![[Assets/Chara/Rodger.png]]
 >
 > ###### Basic Information
 >

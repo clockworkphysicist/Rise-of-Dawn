@@ -10,7 +10,7 @@ modified: 2025-10-05T17:24:45.438-05:00
 >
 > # <font size=3>_An Absolute Ambition_</font>
 >
-> ![[z_Assets/Chara/Nasphreti.png]]
+> ![[Assets/Chara/Nasphreti.png]]
 >
 > ###### Basic Information
 >

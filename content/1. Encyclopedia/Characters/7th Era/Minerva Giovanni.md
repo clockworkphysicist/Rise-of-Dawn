@@ -10,7 +10,7 @@ modified: 2026-04-19T12:04:30.210-05:00
 >
 > # <font size=3>_Unaware Beauty_</font>
 >
-> ![[z_Assets/Chara/Minerva.png]]
+> ![[Assets/Chara/Minerva.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-07T12:49:35.341-05:00
 >
 > # <font size=3>_Discovering Unseen Variables_</font>
 >
-> ![[z_Assets/Chara/Elmen'weyah.png]]
+> ![[Assets/Chara/Elmen'weyah.png]]
 >
 > ###### Basic Information
 >

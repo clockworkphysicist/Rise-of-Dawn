@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T13:38:08.333-05:00
-modified: 2025-08-28T13:38:53.969-05:00
+modified: 2026-04-21T10:34:12.664-05:00
 ---
 
 > [!infobox]
 >
 > # Industria et Iustitia
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

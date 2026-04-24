@@ -10,7 +10,7 @@ modified: 2025-10-07T02:54:43.676-05:00
 >
 > # <font size=3>_Nothing is Insurmountable_</font>
 >
-> ![[z_Assets/Chara/Clarissa.png]]
+> ![[Assets/Chara/Clarissa.png]]
 >
 > ###### Basic Information
 >

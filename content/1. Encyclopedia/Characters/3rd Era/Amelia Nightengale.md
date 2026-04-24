@@ -10,7 +10,7 @@ modified: 2025-10-05T17:47:57.589-05:00
 >
 > # <font size=3>_A Knight on Broken Wings_</font>
 >
-> ![[z_Assets/Chara/Amelia.png]]
+> ![[Assets/Chara/Amelia.png]]
 >
 > ###### Basic Information
 >

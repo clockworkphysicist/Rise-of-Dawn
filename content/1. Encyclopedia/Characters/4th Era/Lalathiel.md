@@ -10,7 +10,7 @@ modified: 2026-04-14T12:14:41.917-05:00
 >
 > # <font size=3>_An Echo Across the Stars_</font>
 >
-> ![[z_Assets/Chara/Lalathiel.png]]
+> ![[Assets/Chara/Lalathiel.png]]
 >
 > ###### Basic Information
 >

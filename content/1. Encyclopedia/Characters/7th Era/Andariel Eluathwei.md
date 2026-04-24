@@ -10,7 +10,7 @@ modified: 2026-04-17T11:54:07.627-05:00
 >
 > # <font size=3>_I Can Fix You_</font>
 >
-> ![[z_Assets/Chara/Andariel.png]]
+> ![[Assets/Chara/Andariel.png]]
 >
 > ###### Basic Information
 >

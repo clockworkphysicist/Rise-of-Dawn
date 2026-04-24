@@ -10,7 +10,7 @@ modified: 2025-10-12T02:17:01.312-05:00
 >
 > # <font size=3>_Bound in Eternal Servitude_</font>
 >
-> ![[z_Assets/Chara/Jackal.png]]
+> ![[Assets/Chara/Jackal.png]]
 >
 > ###### Basic Information
 >

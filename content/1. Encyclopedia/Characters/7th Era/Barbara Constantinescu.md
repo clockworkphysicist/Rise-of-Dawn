@@ -10,7 +10,7 @@ modified: 2026-04-17T11:57:10.236-05:00
 >
 > # <font size=3>_Hokus Pokus, Jokers Wild_</font>
 >
-> ![[z_Assets/Chara/Barbara.png]]
+> ![[Assets/Chara/Barbara.png]]
 >
 > ###### Basic Information
 >

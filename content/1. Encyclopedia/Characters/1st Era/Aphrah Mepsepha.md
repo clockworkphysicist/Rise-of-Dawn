@@ -10,7 +10,7 @@ modified: 2026-04-20T14:03:34.054-05:00
 >
 > # <font size=3>_Love Reborn_</font>
 >
-> ![[z_Assets/Chara/Aphrah.png|206x687]]
+> ![[Assets/Chara/Aphrah.png|206x687]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-08-21T00:47:08.612-05:00
 >
 > # <font size=3>_Eyes Toward the Horizon_</font>
 >
-> ![[z_Assets/Chara/Mina.png]]
+> ![[Assets/Chara/Mina.png]]
 >
 > ###### Basic Information
 >

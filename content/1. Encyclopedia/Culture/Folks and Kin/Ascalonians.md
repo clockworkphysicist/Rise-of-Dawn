@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:43:47.359-05:00
-modified: 2025-08-28T13:30:29.748-05:00
+modified: 2026-04-21T10:34:12.180-05:00
 ---
 
 > [!infobox]
 >
 > # Ascalonians
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

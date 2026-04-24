@@ -10,7 +10,7 @@ modified: 2026-04-19T13:56:27.872-05:00
 >
 > # <font size=3>_Flowering Beauty in a Garden of Malice_</font>
 >
-> ![[z_Assets/Chara/Alrune.png]]
+> ![[Assets/Chara/Alrune.png]]
 >
 > ###### Basic Information
 >

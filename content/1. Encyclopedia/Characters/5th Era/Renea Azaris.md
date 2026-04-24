@@ -10,7 +10,7 @@ modified: 2026-04-16T23:28:24.194-05:00
 >
 > # <font size=3>_All Things As They Are_</font>
 >
-> ![[z_Assets/Chara/Renea.png]]
+> ![[Assets/Chara/Renea.png]]
 >
 > ###### Basic Information
 >

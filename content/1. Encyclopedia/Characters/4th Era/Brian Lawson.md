@@ -10,7 +10,7 @@ modified: 2026-04-14T12:12:01.546-05:00
 >
 > # <font size=3>_Knowledge and Faith_</font>
 >
-> ![[z_Assets/Chara/Fr. Lawson.png]]
+> ![[Assets/Chara/Fr. Lawson.png]]
 >
 > ###### Basic Information
 >

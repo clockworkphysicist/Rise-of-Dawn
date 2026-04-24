@@ -10,7 +10,7 @@ modified: 2026-04-14T13:49:00.631-05:00
 >
 > # <font size=3>_Elementary_</font>
 >
-> ![[z_Assets/Chara/Elazar.png]]
+> ![[Assets/Chara/Elazar.png]]
 >
 > ###### Basic Information
 >

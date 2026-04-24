@@ -10,7 +10,7 @@ modified: 2025-10-07T12:38:32.909-05:00
 >
 > # <font size=3>_Who Will Know_</font>
 >
-> ![[z_Assets/Chara/Drake.png]]
+> ![[Assets/Chara/Drake.png]]
 >
 > ###### Basic Information
 >

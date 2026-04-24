@@ -10,7 +10,7 @@ modified: 2026-04-14T11:41:58.977-05:00
 >
 > # <font size=3>_Tyrant of the Sea_</font>
 >
-> ![[z_Assets/Chara/Captain Blackheart.png]]
+> ![[Assets/Chara/Captain Blackheart.png]]
 >
 > ###### Basic Information
 >

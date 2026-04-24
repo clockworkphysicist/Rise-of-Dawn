@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:31:03.853-05:00
-modified: 2025-08-28T03:31:28.340-05:00
+modified: 2026-04-21T10:34:12.575-05:00
 ---
 
 > [!infobox]
 >
 > # Flight of the Dark Swarm
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

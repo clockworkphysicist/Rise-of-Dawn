@@ -10,7 +10,7 @@ modified: 2026-04-14T14:11:23.611-05:00
 >
 > # <font size=3>_Voice of Reason_</font>
 >
-> ![[z_Assets/Chara/Humphrey.png]]
+> ![[Assets/Chara/Humphrey.png]]
 >
 > ###### Basic Information
 >

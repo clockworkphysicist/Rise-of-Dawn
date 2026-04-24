@@ -10,7 +10,7 @@ modified: 2025-10-11T00:43:46.161-05:00
 >
 > # <font size=3>_Rightful Place Indeed_</font>
 >
-> ![[z_Assets/Chara/Eziri.png]]
+> ![[Assets/Chara/Eziri.png]]
 >
 > ###### Basic Information
 >

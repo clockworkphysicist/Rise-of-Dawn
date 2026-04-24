@@ -10,7 +10,7 @@ modified: 2025-10-07T03:15:40.660-05:00
 >
 > # <font size=3>_Vengeance is Mine_</font>
 >
-> ![[z_Assets/Chara/Daymeon.png]]
+> ![[Assets/Chara/Daymeon.png]]
 >
 > ###### Basic Information
 >

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:35:12.146-05:00
-modified: 2025-08-28T13:29:56.635-05:00
+modified: 2026-04-21T10:34:12.201-05:00
 ---
 
 > [!infobox]
 >
 > # Centaurs
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

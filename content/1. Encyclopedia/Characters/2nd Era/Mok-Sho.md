@@ -10,7 +10,7 @@ modified: 2025-10-05T17:22:20.072-05:00
 >
 > # <font size=3>_A Will of Stone_</font>
 >
-> ![[z_Assets/Chara/Mok-Sho.png]]
+> ![[Assets/Chara/Mok-Sho.png]]
 >
 > ###### Basic Information
 >

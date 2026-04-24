@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:31:49.048-05:00
-modified: 2025-08-28T03:32:00.792-05:00
+modified: 2026-04-21T10:34:12.619-05:00
 ---
 
 > [!infobox]
 >
 > # The Corporate Wars
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

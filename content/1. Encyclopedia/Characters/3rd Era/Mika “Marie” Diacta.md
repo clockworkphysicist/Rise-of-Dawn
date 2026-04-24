@@ -10,7 +10,7 @@ modified: 2025-10-14T02:47:23.143-05:00
 >
 > # <font size=3>_To Want and to be Wanted_</font>
 >
-> ![[z_Assets/Chara/Mika.png]]
+> ![[Assets/Chara/Mika.png]]
 >
 > ###### Basic Information
 >

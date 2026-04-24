@@ -10,7 +10,7 @@ modified: 2026-04-13T19:20:44.305-05:00
 >
 > # <font size=3>_Slave of Destiny_</font>
 >
-> ![[z_Assets/Chara/Vincent.png]]
+> ![[Assets/Chara/Vincent.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-10T23:01:55.503-05:00
 >
 > # <font size=3>_Prudence and Concealment_</font>
 >
-> ![[z_Assets/Chara/9 IX, The Hermit(Solomon).png]]
+> ![[Assets/Chara/9 IX, The Hermit(Solomon).png]]
 >
 > ###### Basic Information
 >

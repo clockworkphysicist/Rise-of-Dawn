@@ -10,7 +10,7 @@ modified: 2025-10-05T17:36:46.196-05:00
 >
 > # <font size=3>_Divine Decadence_</font>
 >
-> ![[z_Assets/Chara/Veldaris.png]]
+> ![[Assets/Chara/Veldaris.png]]
 >
 > ###### Basic Information
 >

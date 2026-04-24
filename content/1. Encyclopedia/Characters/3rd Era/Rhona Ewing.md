@@ -10,7 +10,7 @@ modified: 2025-12-22T14:48:07.969-06:00
 >
 > # <font size=3>_The Lone Matron of the Glen_</font>
 >
-> ![[z_Assets/Chara/Rhona.png]]
+> ![[Assets/Chara/Rhona.png]]
 >
 > ###### Basic Information
 >

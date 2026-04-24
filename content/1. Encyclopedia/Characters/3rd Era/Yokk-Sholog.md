@@ -10,7 +10,7 @@ modified: 2026-04-13T19:55:37.751-05:00
 >
 > # <font size=3>_Speaker of the Deep_</font>
 >
-> ![[z_Assets/Chara/Yokk-Sholog.png]]
+> ![[Assets/Chara/Yokk-Sholog.png]]
 >
 > ###### Basic Information
 >

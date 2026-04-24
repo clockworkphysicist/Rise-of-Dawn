@@ -10,7 +10,7 @@ modified: 2026-04-19T13:47:16.463-05:00
 >
 > # <font size=3>_Dead or Alive... You're Mine_</font>
 >
-> ![[z_Assets/Chara/Jetstream.png]]
+> ![[Assets/Chara/Jetstream.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-11T01:01:21.985-05:00
 >
 > # <font size=3>_A Lifetime of Regret_</font>
 >
-> ![[z_Assets/Chara/Reegal.png]]
+> ![[Assets/Chara/Reegal.png]]
 >
 > ###### Basic Information
 >

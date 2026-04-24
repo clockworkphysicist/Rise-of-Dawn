@@ -10,7 +10,7 @@ modified: 2025-10-07T01:39:45.918-05:00
 >
 > # <font size=3>_The Bear Stirs in it's Slumber_</font>
 >
-> ![[z_Assets/Chara/Boris.png]]
+> ![[Assets/Chara/Boris.png]]
 >
 > ###### Basic Information
 >

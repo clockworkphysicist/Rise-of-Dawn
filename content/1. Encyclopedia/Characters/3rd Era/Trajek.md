@@ -10,7 +10,7 @@ modified: 2026-04-13T19:03:52.547-05:00
 >
 > # <font size=3>_The Long Road Home_</font>
 >
-> ![[z_Assets/Chara/Trajek.png]]
+> ![[Assets/Chara/Trajek.png]]
 >
 > ###### Basic Information
 >

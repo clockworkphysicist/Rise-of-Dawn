@@ -10,7 +10,7 @@ modified: 2026-04-14T12:37:31.827-05:00
 >
 > # <font size=3>_Forger of Fates_</font>
 >
-> ![[z_Assets/Chara/Tharmas.png]]
+> ![[Assets/Chara/Tharmas.png]]
 >
 > ###### Basic Information
 >

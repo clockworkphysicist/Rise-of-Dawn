@@ -10,7 +10,7 @@ modified: 2025-10-07T12:45:53.207-05:00
 >
 > # <font size=3>_Burning Memories_</font>
 >
-> ![[z_Assets/Chara/Elijah.png]]
+> ![[Assets/Chara/Elijah.png]]
 >
 > ###### Basic Information
 >

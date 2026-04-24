@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T14:34:28.530-05:00
-modified: 2025-08-28T14:36:45.029-05:00
+modified: 2026-04-21T10:34:12.094-05:00
 ---
 
 > [!infobox]
 >
 > # Stalowa Kołysanka
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

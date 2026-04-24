@@ -10,7 +10,7 @@ modified: 2025-10-04T15:12:03.850-05:00
 >
 > # <font size=3>_Peisithanatos_</font>
 >
-> ![[z_Assets/Chara/Wormwood.png]]
+> ![[Assets/Chara/Wormwood.png]]
 >
 > ###### Basic Information
 >

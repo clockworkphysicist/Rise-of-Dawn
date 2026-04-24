@@ -10,7 +10,7 @@ modified: 2026-04-14T11:43:54.851-05:00
 >
 > # <font size=3>_Living Faith_</font>
 >
-> ![[z_Assets/Chara/Cerise.png]]
+> ![[Assets/Chara/Cerise.png]]
 >
 > ###### Basic Information
 >

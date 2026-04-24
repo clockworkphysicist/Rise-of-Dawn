@@ -10,7 +10,7 @@ modified: 2025-10-05T16:37:48.393-05:00
 >
 > # <font size=3>_The Fire that Burns Eternal_</font>
 >
-> ![[z_Assets/Chara/Flame.png]]
+> ![[Assets/Chara/Flame.png]]
 >
 > ###### Basic Information
 >

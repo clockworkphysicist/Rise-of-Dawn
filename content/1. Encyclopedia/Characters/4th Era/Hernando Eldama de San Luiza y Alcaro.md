@@ -10,7 +10,7 @@ modified: 2026-04-14T12:13:28.752-05:00
 >
 > # <font size=3>_The Red Flag Raised_</font>
 >
-> ![[z_Assets/Chara/Hernando.png]]
+> ![[Assets/Chara/Hernando.png]]
 >
 > ###### Basic Information
 >

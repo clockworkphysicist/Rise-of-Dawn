@@ -10,7 +10,7 @@ modified: 2026-04-17T14:09:52.524-05:00
 >
 > # <font size=3>_New Tricks_</font>
 >
-> ![[z_Assets/Chara/Dirty Dog.png]]
+> ![[Assets/Chara/Dirty Dog.png]]
 >
 > ###### Basic Information
 >

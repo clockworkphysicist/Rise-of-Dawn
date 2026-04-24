@@ -10,7 +10,7 @@ modified: 2026-04-19T12:59:48.343-05:00
 >
 > # <font size=3>_It's a Sabotage_</font>
 >
-> ![[z_Assets/Chara/Wayya.png]]
+> ![[Assets/Chara/Wayya.png]]
 >
 > ###### Basic Information
 >

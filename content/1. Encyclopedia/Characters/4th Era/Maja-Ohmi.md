@@ -10,7 +10,7 @@ modified: 2026-04-14T12:18:36.619-05:00
 >
 > # <font size=3>_Travelling the Corridors of Life_</font>
 >
-> ![[z_Assets/Chara/Maja-Ohmi.png]]
+> ![[Assets/Chara/Maja-Ohmi.png]]
 >
 > ###### Basic Information
 >

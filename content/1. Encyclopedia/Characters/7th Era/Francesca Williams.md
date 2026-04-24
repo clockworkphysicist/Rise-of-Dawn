@@ -10,7 +10,7 @@ modified: 2026-04-17T14:45:45.069-05:00
 >
 > # <font size=3>_Those who wander..._</font>
 >
-> ![[z_Assets/Chara/Francesca.png]]
+> ![[Assets/Chara/Francesca.png]]
 >
 > ###### Basic Information
 >

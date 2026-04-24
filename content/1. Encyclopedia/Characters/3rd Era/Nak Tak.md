@@ -10,7 +10,7 @@ modified: 2025-12-17T18:25:22.356-06:00
 >
 > # <font size=3>_The Mad Pretender_</font>
 >
-> ![[z_Assets/Chara/Nach Tach.png]]
+> ![[Assets/Chara/Nach Tach.png]]
 >
 > ###### Basic Information
 >

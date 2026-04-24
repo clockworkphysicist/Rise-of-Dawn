@@ -10,7 +10,7 @@ modified: 2026-04-19T11:40:16.039-05:00
 >
 > # <font size=3>_Boss Ass Bitch_</font>
 >
-> ![[z_Assets/Chara/Kathryn.png]]
+> ![[Assets/Chara/Kathryn.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-12-22T21:33:07.629-06:00
 >
 > # <font size=3>_Lord of Tenbatsu_</font>
 >
-> ![[z_Assets/Chara/Tenjin.png]]
+> ![[Assets/Chara/Tenjin.png]]
 >
 > ###### Basic Information
 >

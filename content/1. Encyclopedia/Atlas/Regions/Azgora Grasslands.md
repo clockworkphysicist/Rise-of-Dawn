@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:16:45.507-05:00
-modified: 2025-08-28T02:17:00.913-05:00
+modified: 2026-04-21T10:34:11.552-05:00
 ---
 
 > [!infobox]
 >
 > # Azgora Grasslands
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

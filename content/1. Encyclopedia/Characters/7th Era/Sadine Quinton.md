@@ -10,7 +10,7 @@ modified: 2026-04-19T12:25:06.383-05:00
 >
 > # <font size=3>_Music of the Night_</font>
 >
-> ![[z_Assets/Chara/Sadine.png]]
+> ![[Assets/Chara/Sadine.png]]
 >
 > ###### Basic Information
 >

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:40:19.448-05:00
-modified: 2025-08-28T13:28:05.439-05:00
+modified: 2026-04-21T10:34:12.302-05:00
 ---
 
 > [!infobox]
 >
 > # Orcs
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

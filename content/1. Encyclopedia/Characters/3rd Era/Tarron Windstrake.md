@@ -10,7 +10,7 @@ modified: 2025-08-20T17:54:25.304-05:00
 >
 > # <font size=3>_The Will to Fight_</font>
 >
-> ![[z_Assets/Chara/Tarron.png]]
+> ![[Assets/Chara/Tarron.png]]
 >
 > ###### Basic Information
 >

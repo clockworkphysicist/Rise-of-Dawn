@@ -10,7 +10,7 @@ modified: 2025-10-05T17:03:35.585-05:00
 >
 > # <font size=3>_Charting the Known and Unknown_</font>
 >
-> ![[z_Assets/Chara/Exiodan.png]]
+> ![[Assets/Chara/Exiodan.png]]
 >
 > ###### Basic Information
 >

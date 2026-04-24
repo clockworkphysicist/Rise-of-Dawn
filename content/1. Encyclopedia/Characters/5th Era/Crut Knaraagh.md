@@ -10,7 +10,7 @@ modified: 2026-04-14T13:36:24.491-05:00
 >
 > # <font size=3>_Impeccably Shaved_</font>
 >
-> ![[z_Assets/Chara/Crut.png]]
+> ![[Assets/Chara/Crut.png]]
 >
 > ###### Basic Information
 >

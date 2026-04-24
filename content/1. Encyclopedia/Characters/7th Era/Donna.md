@@ -10,7 +10,7 @@ modified: 2026-04-17T14:16:31.786-05:00
 >
 > # <font size=3>_Age is a Cruel Mistress_</font>
 >
-> ![[z_Assets/Chara/Donna.png]]
+> ![[Assets/Chara/Donna.png]]
 >
 > ###### Basic Information
 >

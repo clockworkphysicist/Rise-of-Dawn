@@ -10,7 +10,7 @@ modified: 2026-04-14T12:42:28.147-05:00
 >
 > # <font size=3>_Maiden of the Unquiet Grave_</font>
 >
-> ![[z_Assets/Chara/Mariana the Unbroken.png]]
+> ![[Assets/Chara/Mariana the Unbroken.png]]
 >
 > ###### Basic Information
 >

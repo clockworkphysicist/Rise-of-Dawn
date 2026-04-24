@@ -10,7 +10,7 @@ modified: 2025-12-22T15:51:19.622-06:00
 >
 > # <font size=3>_The Hidden Claws_</font>
 >
-> ![[z_Assets/Chara/Sonya.png]]
+> ![[Assets/Chara/Sonya.png]]
 >
 > ###### Basic Information
 >

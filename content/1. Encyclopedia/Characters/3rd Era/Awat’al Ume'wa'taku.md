@@ -10,7 +10,7 @@ modified: 2025-10-05T18:28:02.256-05:00
 >
 > # <font size=3>_Longing in the Shining Sun_</font>
 >
-> ![[z_Assets/Chara/Awatal.png]]
+> ![[Assets/Chara/Awatal.png]]
 >
 > ###### Basic Information
 >

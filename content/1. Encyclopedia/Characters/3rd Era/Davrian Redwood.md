@@ -10,7 +10,7 @@ modified: 2025-10-07T03:11:36.894-05:00
 >
 > # <font size=3>_The Shadow of the Castle_</font>
 >
-> ![[z_Assets/Chara/Davrian.png]]
+> ![[Assets/Chara/Davrian.png]]
 >
 > ###### Basic Information
 >

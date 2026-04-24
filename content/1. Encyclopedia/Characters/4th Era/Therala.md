@@ -10,7 +10,7 @@ modified: 2026-04-14T12:38:50.004-05:00
 >
 > # <font size=3>_Glory of the Night_</font>
 >
-> ![[z_Assets/Chara/Therala.png]]
+> ![[Assets/Chara/Therala.png]]
 >
 > ###### Basic Information
 >

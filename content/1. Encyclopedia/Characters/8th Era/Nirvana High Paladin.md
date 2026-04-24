@@ -10,7 +10,7 @@ modified: 2026-04-19T13:01:51.398-05:00
 >
 > # <font size=3>_Mu_</font>
 >
-> ![[z_Assets/Chara/Nirvana High Paladin.png]]
+> ![[Assets/Chara/Nirvana High Paladin.png]]
 >
 > ###### Basic Information
 >

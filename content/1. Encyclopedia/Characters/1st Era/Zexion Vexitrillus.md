@@ -10,7 +10,7 @@ modified: 2025-10-05T16:45:58.698-05:00
 >
 > # <font size=3>_Out of Touch, Out of Time_</font>
 >
-> ![[z_Assets/Chara/Zexion.png]]
+> ![[Assets/Chara/Zexion.png]]
 >
 > ###### Basic Information
 >

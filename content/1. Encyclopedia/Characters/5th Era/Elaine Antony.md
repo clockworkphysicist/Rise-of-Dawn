@@ -10,7 +10,7 @@ modified: 2026-04-14T13:48:05.527-05:00
 >
 > # <font size=3>_An Imitation of Grace_</font>
 >
-> ![[z_Assets/Chara/Elaine.png]]
+> ![[Assets/Chara/Elaine.png]]
 >
 > ###### Basic Information
 >

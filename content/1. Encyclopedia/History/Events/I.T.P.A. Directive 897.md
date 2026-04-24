@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T13:12:54.448-05:00
-modified: 2025-08-28T13:15:25.077-05:00
+modified: 2026-04-21T10:34:12.586-05:00
 ---
 
 > [!infobox]
 >
 > # I.T.P.A. Directive 897
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

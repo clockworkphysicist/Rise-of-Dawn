@@ -10,7 +10,7 @@ modified: 2026-04-17T14:20:47.688-05:00
 >
 > # <font size=3>_Put your hands up_</font>
 >
-> ![[z_Assets/Chara/Dreadd.png]]
+> ![[Assets/Chara/Dreadd.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T22:37:50.022-05:00
 >
 > # <font size=3>_Some Things Cannot Be Undone_</font>
 >
-> ![[z_Assets/Chara/Nam'Yang.png]]
+> ![[Assets/Chara/Nam'Yang.png]]
 >
 > ###### Basic Information
 >

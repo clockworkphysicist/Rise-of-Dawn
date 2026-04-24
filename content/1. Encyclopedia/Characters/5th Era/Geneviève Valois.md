@@ -10,7 +10,7 @@ modified: 2026-04-14T13:56:37.760-05:00
 >
 > # <font size=3>_Abracadabra_</font>
 >
-> ![[z_Assets/Chara/Geneviève.png]]
+> ![[Assets/Chara/Geneviève.png]]
 >
 > ###### Basic Information
 >

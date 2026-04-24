@@ -10,7 +10,7 @@ modified: 2026-04-14T12:40:23.198-05:00
 >
 > # <font size=3>_Sadly Sings Destiny_</font>
 >
-> ![[z_Assets/Chara/Valentinian.png]]
+> ![[Assets/Chara/Valentinian.png]]
 >
 > ###### Basic Information
 >

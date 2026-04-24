@@ -10,7 +10,7 @@ modified: 2025-08-28T13:21:46.707-05:00
 >
 > # <font size=3>_The Will to Rule_</font>
 >
-> ![[z_Assets/Chara/Amira.png]]
+> ![[Assets/Chara/Amira.png]]
 >
 > ###### Basic Information
 >

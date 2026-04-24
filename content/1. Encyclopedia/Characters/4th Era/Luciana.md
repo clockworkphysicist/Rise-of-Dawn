@@ -10,7 +10,7 @@ modified: 2026-04-14T12:17:15.859-05:00
 >
 > # <font size=3>_Jester of the Church_</font>
 >
-> ![[z_Assets/Chara/Luciana.png]]
+> ![[Assets/Chara/Luciana.png]]
 >
 > ###### Basic Information
 >

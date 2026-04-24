@@ -10,7 +10,7 @@ modified: 2026-04-19T12:50:52.835-05:00
 >
 > # <font size=3>_Expecting Nothing_</font>
 >
-> ![[z_Assets/Chara/Skyler.png]]
+> ![[Assets/Chara/Skyler.png]]
 >
 > ###### Basic Information
 >

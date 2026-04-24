@@ -10,7 +10,7 @@ modified: 2026-04-17T11:31:11.206-05:00
 >
 > # <font size=3>_Sweet Days of Summer, the Jasmines in Bloom._</font>
 >
-> ![[z_Assets/Chara/Sunny.png]]
+> ![[Assets/Chara/Sunny.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T14:00:35.777-05:00
 >
 > # <font size=3>_Keeper of the Peace_</font>
 >
-> ![[z_Assets/Chara/Gustave.png]]
+> ![[Assets/Chara/Gustave.png]]
 >
 > ###### Basic Information
 >

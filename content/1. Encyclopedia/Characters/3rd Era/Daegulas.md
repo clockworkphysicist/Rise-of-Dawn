@@ -10,7 +10,7 @@ modified: 2025-10-07T03:02:14.053-05:00
 >
 > # <font size=3>_Words of Sorrow, Words of Love_</font>
 >
-> ![[z_Assets/Chara/Daegulas.png]]
+> ![[Assets/Chara/Daegulas.png]]
 >
 > ###### Basic Information
 >

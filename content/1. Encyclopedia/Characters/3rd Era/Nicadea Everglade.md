@@ -10,7 +10,7 @@ modified: 2025-08-17T14:17:27.419-05:00
 >
 > # <font size=3>_The Beloved Maiden_</font>
 >
-> ![[z_Assets/Chara/Nicadea.png]]
+> ![[Assets/Chara/Nicadea.png]]
 >
 > ###### Basic Information
 >

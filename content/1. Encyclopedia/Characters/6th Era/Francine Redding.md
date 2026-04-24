@@ -10,7 +10,7 @@ modified: 2026-04-17T11:08:46.727-05:00
 >
 > # <font size=3>_On a hot summer night, would you offer your throat to the wolf with the red roses?_</font>
 >
-> ![[z_Assets/Chara/Francine.png]]
+> ![[Assets/Chara/Francine.png]]
 >
 > ###### Basic Information
 >

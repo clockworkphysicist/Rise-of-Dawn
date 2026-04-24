@@ -10,7 +10,7 @@ modified: 2026-04-17T14:34:36.493-05:00
 >
 > # <font size=3>_No Pain, No Gain_</font>
 >
-> ![[z_Assets/Chara/Ellina.png]]
+> ![[Assets/Chara/Ellina.png]]
 >
 > ###### Basic Information
 >

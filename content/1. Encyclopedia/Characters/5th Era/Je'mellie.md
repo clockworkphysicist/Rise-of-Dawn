@@ -10,7 +10,7 @@ modified: 2026-04-14T14:21:02.306-05:00
 >
 > # <font size=3>_Drowning Sorrow_</font>
 >
-> ![[z_Assets/Chara/Je'mellie.png]]
+> ![[Assets/Chara/Je'mellie.png]]
 >
 > ###### Basic Information
 >

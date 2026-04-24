@@ -10,7 +10,7 @@ modified: 2026-04-17T11:32:01.368-05:00
 >
 > # <font size=3>_???_</font>
 >
-> ![[z_Assets/Chara/The Stranger.png]]
+> ![[Assets/Chara/The Stranger.png]]
 >
 > ###### Basic Information
 >

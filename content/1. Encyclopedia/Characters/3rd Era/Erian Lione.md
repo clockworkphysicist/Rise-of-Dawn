@@ -10,7 +10,7 @@ modified: 2025-08-21T00:39:13.079-05:00
 >
 > # <font size=3>_Moon Shine In This Eternal Night_</font>
 >
-> ![[z_Assets/Chara/Erian.png]]
+> ![[Assets/Chara/Erian.png]]
 >
 > ###### Basic Information
 >

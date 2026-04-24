@@ -10,7 +10,7 @@ modified: 2025-10-05T17:02:14.692-05:00
 >
 > # <font size=3>_To Preserve and Protect_</font>
 >
-> ![[z_Assets/Chara/Borgrah.png]]
+> ![[Assets/Chara/Borgrah.png]]
 >
 > ###### Basic Information
 >

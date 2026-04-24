@@ -10,7 +10,7 @@ modified: 2026-04-17T14:22:14.539-05:00
 >
 > # <font size=3>_No Comment_</font>
 >
-> ![[z_Assets/Chara/Eliara.png]]
+> ![[Assets/Chara/Eliara.png]]
 >
 > ###### Basic Information
 >

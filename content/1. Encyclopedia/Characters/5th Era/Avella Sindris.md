@@ -10,7 +10,7 @@ modified: 2026-04-14T12:59:33.339-05:00
 >
 > # <font size=3>_The Glory and the Light_</font>
 >
-> ![[z_Assets/Chara/Avella.png]]
+> ![[Assets/Chara/Avella.png]]
 >
 > ###### Basic Information
 >

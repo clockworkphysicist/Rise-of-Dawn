@@ -10,7 +10,7 @@ modified: 2025-08-20T14:13:07.966-05:00
 >
 > # <font size=3>_A Hopeful Prayer_</font>
 >
-> ![[z_Assets/Chara/Judith.png]]
+> ![[Assets/Chara/Judith.png]]
 >
 > ###### Basic Information
 >

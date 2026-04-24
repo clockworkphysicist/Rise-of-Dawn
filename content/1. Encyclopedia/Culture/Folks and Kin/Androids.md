@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T01:58:24.465-05:00
-modified: 2025-08-28T13:31:06.862-05:00
+modified: 2026-04-21T10:34:12.165-05:00
 ---
 
 > [!infobox]
 >
 > # Androids
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-13T19:24:26.409-05:00
 >
 > # <font size=3>_Divine Innocence_</font>
 >
-> ![[z_Assets/Chara/Varilus.png]]
+> ![[Assets/Chara/Varilus.png]]
 >
 > ###### Basic Information
 >

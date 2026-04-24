@@ -10,7 +10,7 @@ modified: 2025-10-11T10:32:56.790-05:00
 >
 > # <font size=3>_tagline_</font>
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp]]
+> ![[Assets/Misc/ImagePlaceholder.webp]]
 >
 > ###### Basic Information
 >

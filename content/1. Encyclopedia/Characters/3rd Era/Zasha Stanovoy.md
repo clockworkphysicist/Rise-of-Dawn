@@ -10,7 +10,7 @@ modified: 2026-04-13T20:04:03.476-05:00
 >
 > # <font size=3>_Chorniy Voron_</font>
 >
-> ![[z_Assets/Chara/Zasha.png]]
+> ![[Assets/Chara/Zasha.png]]
 >
 > ###### Basic Information
 >

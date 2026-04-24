@@ -10,7 +10,7 @@ modified: 2025-12-22T21:20:09.111-06:00
 >
 > # <font size=3>_Keeper of Court Secrets_</font>
 >
-> ![[z_Assets/Chara/Tannach (Dead).png]]
+> ![[Assets/Chara/Tannach (Dead).png]]
 >
 > ###### Basic Information
 >

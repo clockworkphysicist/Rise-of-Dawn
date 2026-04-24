@@ -10,7 +10,7 @@ modified: 2026-04-19T11:46:34.880-05:00
 >
 > # <font size=3>_Blood Money_</font>
 >
-> ![[z_Assets/Chara/Leslie.png]]
+> ![[Assets/Chara/Leslie.png]]
 >
 > ###### Basic Information
 >

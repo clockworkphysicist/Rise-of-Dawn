@@ -10,7 +10,7 @@ modified: 2026-04-19T11:48:07.667-05:00
 >
 > # <font size=3>_Like the Scream of a Butterfly_</font>
 >
-> ![[z_Assets/Chara/Mark.png]]
+> ![[Assets/Chara/Mark.png]]
 >
 > ###### Basic Information
 >

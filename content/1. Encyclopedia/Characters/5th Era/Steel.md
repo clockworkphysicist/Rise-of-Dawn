@@ -10,7 +10,7 @@ modified: 2026-04-17T00:33:15.159-05:00
 >
 > # <font size=3>_An Unbreakable, Unshakable Will_</font>
 >
-> ![[z_Assets/Chara/Steel.png]]
+> ![[Assets/Chara/Steel.png]]
 >
 > ###### Basic Information
 >

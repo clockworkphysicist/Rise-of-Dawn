@@ -10,7 +10,7 @@ modified: 2025-12-22T21:25:42.534-06:00
 >
 > # <font size=3>_Might of the Heart_</font>
 >
-> ![[z_Assets/Chara/Tarla.png]]
+> ![[Assets/Chara/Tarla.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-13T20:09:41.502-05:00
 >
 > # <font size=3>_Bread Brawl_</font>
 >
-> ![[z_Assets/Chara/Zelphi.png]]
+> ![[Assets/Chara/Zelphi.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T10:27:08.486-05:00
 >
 > # <font size=3>_The Demons Hand_</font>
 >
-> ![[z_Assets/Chara/Alasdair.png]]
+> ![[Assets/Chara/Alasdair.png]]
 >
 > ###### Basic Information
 >

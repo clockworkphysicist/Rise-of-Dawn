@@ -10,7 +10,7 @@ modified: 2025-12-22T20:46:29.167-06:00
 >
 > # <font size=3>_The Dark Scar_</font>
 >
-> ![[z_Assets/Chara/Stefani.png]]
+> ![[Assets/Chara/Stefani.png]]
 >
 > ###### Basic Information
 >

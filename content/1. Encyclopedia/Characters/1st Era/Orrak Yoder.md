@@ -10,7 +10,7 @@ modified: 2026-04-10T23:52:43.334-05:00
 >
 > # <font size=3>_Crushing Conquest_</font>
 >
-> ![[z_Assets/Chara/Orrak.png]]
+> ![[Assets/Chara/Orrak.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-19T13:48:01.280-05:00
 >
 > # <font size=3>_Creation from Something_</font>
 >
-> ![[z_Assets/Chara/Michelle.png]]
+> ![[Assets/Chara/Michelle.png]]
 >
 > ###### Basic Information
 >

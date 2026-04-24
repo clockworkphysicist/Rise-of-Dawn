@@ -10,7 +10,7 @@ modified: 2026-04-17T13:23:08.396-05:00
 >
 > # <font size=3>_I do what I want_</font>
 >
-> ![[z_Assets/Chara/Camelia.png]]
+> ![[Assets/Chara/Camelia.png]]
 >
 > ###### Basic Information
 >

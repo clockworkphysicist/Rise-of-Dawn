@@ -10,7 +10,7 @@ modified: 2026-04-14T11:46:25.587-05:00
 >
 > # <font size=3>_Punishment of Sin_</font>
 >
-> ![[z_Assets/Chara/Crawl.png]]
+> ![[Assets/Chara/Crawl.png]]
 >
 > ###### Basic Information
 >

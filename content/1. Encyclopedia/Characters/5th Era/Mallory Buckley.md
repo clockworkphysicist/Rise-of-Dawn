@@ -10,7 +10,7 @@ modified: 2026-04-16T13:44:02.344-05:00
 >
 > # <font size=3>_Rage of Dust_</font>
 >
-> ![[z_Assets/Chara/Mallory.png]]
+> ![[Assets/Chara/Mallory.png]]
 >
 > ###### Basic Information
 >

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-08-20T13:37:38.887-05:00
-modified: 2025-08-20T13:39:28.195-05:00
+modified: 2026-04-24T11:39:49.687-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2025-08-20T13:39:28.195-05:00
 >
 > # <font size=3>_Matron of Loving Embrace_</font>
 >
-> ![[z_Assets/Chara/Ama’naktwa.png]]
+> ![[Assets/Chara/Ama’naktwa.png|323x764]]
 >
 > ###### Basic Information
 >

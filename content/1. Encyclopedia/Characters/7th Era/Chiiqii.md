@@ -10,7 +10,7 @@ modified: 2026-04-17T13:54:18.672-05:00
 >
 > # <font size=3>_A Wild Innocence_</font>
 >
-> ![[z_Assets/Chara/Chiiqii.png]]
+> ![[Assets/Chara/Chiiqii.png]]
 >
 > ###### Basic Information
 >

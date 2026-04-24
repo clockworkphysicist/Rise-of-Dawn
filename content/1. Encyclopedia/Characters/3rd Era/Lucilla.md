@@ -10,7 +10,7 @@ modified: 2025-10-12T03:01:34.868-05:00
 >
 > # <font size=3>_Speak No Evil_</font>
 >
-> ![[z_Assets/Chara/Lucilla.png]]
+> ![[Assets/Chara/Lucilla.png]]
 >
 > ###### Basic Information
 >

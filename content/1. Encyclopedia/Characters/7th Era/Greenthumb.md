@@ -10,7 +10,7 @@ modified: 2026-04-17T15:06:08.342-05:00
 >
 > # <font size=3>_I'd like to tell you just where I'm from._</font>
 >
-> ![[z_Assets/Chara/Greenthumb.png]]
+> ![[Assets/Chara/Greenthumb.png]]
 >
 > ###### Basic Information
 >

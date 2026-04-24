@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-14T11:47:16.900-05:00
-modified: 2026-04-14T11:48:25.689-05:00
+modified: 2026-04-21T10:34:11.687-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2026-04-14T11:48:25.689-05:00
 >
 > # <font size=3>_A Longing for Return_</font>
 >
-> ![[z_Assets/Chara/Delulu.png]]
+> ![[Assets/Chara/Delulu.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-13T19:21:30.088-05:00
 >
 > # <font size=3>_Butterfly in the Shadow_</font>
 >
-> ![[z_Assets/Chara/Valentia.png]]
+> ![[Assets/Chara/Valentia.png]]
 >
 > ###### Basic Information
 >

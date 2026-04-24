@@ -10,7 +10,7 @@ modified: 2025-10-11T00:45:56.998-05:00
 >
 > # <font size=3>_Hollow_</font>
 >
-> ![[z_Assets/Chara/Frutilla.png]]
+> ![[Assets/Chara/Frutilla.png]]
 >
 > ###### Basic Information
 >

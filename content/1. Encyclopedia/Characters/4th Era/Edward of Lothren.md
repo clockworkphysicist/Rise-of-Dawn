@@ -10,7 +10,7 @@ modified: 2025-08-20T13:50:27.678-05:00
 >
 > # <font size=3>_A Promise Fulfilled_</font>
 >
-> ![[z_Assets/Chara/Urizen.png]]
+> ![[Assets/Chara/Urizen.png]]
 >
 > ###### Basic Information
 >

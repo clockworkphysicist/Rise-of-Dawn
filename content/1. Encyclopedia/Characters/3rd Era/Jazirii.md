@@ -10,7 +10,7 @@ modified: 2025-10-12T02:33:02.893-05:00
 >
 > # <font size=3>_Blossoms on the Water_</font>
 >
-> ![[z_Assets/Chara/Jazirii.png]]
+> ![[Assets/Chara/Jazirii.png]]
 >
 > ###### Basic Information
 >

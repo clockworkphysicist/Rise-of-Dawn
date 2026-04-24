@@ -10,7 +10,7 @@ modified: 2025-10-12T03:18:50.811-05:00
 >
 > # <font size=3>_Love is Pain_</font>
 >
-> ![[z_Assets/Chara/Malikor.png]]
+> ![[Assets/Chara/Malikor.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-19T13:50:58.361-05:00
 >
 > # <font size=3>_Made to be Perfect_</font>
 >
-> ![[z_Assets/Chara/Wendy.png]]
+> ![[Assets/Chara/Wendy.png]]
 >
 > ###### Basic Information
 >

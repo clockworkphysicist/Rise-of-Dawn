@@ -10,7 +10,7 @@ modified: 2026-04-10T23:05:01.859-05:00
 >
 > # <font size=3>_Equity and Bias_</font>
 >
-> ![[z_Assets/Chara/11 XI, Justice.png]]
+> ![[Assets/Chara/11 XI, Justice.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-08-21T00:30:15.139-05:00
 >
 > # <font size=3>_Reflection of Perfection_</font>
 >
-> ![[z_Assets/Chara/Fuchsia.png]]
+> ![[Assets/Chara/Fuchsia.png]]
 >
 > ###### Basic Information
 >

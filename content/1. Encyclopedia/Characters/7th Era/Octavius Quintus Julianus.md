@@ -10,7 +10,7 @@ modified: 2026-04-19T12:07:56.335-05:00
 >
 > # <font size=3>_Recalculating..._</font>
 >
-> ![[z_Assets/Chara/Octavius.png]]
+> ![[Assets/Chara/Octavius.png]]
 >
 > ###### Basic Information
 >

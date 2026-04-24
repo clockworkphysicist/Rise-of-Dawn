@@ -10,7 +10,7 @@ modified: 2026-04-19T11:42:34.398-05:00
 >
 > # <font size=3>_Ghosted_</font>
 >
-> ![[z_Assets/Chara/Kyle.png]]
+> ![[Assets/Chara/Kyle.png]]
 >
 > ###### Basic Information
 >

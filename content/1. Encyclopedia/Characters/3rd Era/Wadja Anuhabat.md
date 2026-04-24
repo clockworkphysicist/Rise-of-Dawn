@@ -10,7 +10,7 @@ modified: 2026-04-13T19:44:30.434-05:00
 >
 > # <font size=3>_Nami, Nami Ya Seghirreh_</font>
 >
-> ![[z_Assets/Chara/Wadja.png]]
+> ![[Assets/Chara/Wadja.png]]
 >
 > ###### Basic Information
 >

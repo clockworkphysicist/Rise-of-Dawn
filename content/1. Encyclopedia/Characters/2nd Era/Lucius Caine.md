@@ -10,7 +10,7 @@ modified: 2025-10-05T17:19:45.117-05:00
 >
 > # <font size=3>_Author of the World_</font>
 >
-> ![[z_Assets/Chara/Lucius.png]]
+> ![[Assets/Chara/Lucius.png]]
 >
 > ###### Basic Information
 >

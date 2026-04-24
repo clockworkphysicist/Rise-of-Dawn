@@ -10,7 +10,7 @@ modified: 2025-10-15T13:23:39.187-05:00
 >
 > # <font size=3>_Two Worlds One Family_</font>
 >
-> ![[z_Assets/Chara/Mwassa.png]]
+> ![[Assets/Chara/Mwassa.png]]
 >
 > ###### Basic Information
 >

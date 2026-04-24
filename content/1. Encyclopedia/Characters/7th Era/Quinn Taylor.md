@@ -10,7 +10,7 @@ modified: 2026-04-19T12:23:48.088-05:00
 >
 > # <font size=3>_Let You Cut Me Open, Just To Watch Me Bleed_</font>
 >
-> ![[z_Assets/Chara/Quinn.png]]
+> ![[Assets/Chara/Quinn.png]]
 >
 > ###### Basic Information
 >

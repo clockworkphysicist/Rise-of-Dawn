@@ -10,7 +10,7 @@ modified: 2026-04-19T10:31:44.479-05:00
 >
 > # <font size=3>_Drawn to Life_</font>
 >
-> ![[z_Assets/Chara/Janet.png]]
+> ![[Assets/Chara/Janet.png]]
 >
 > ###### Basic Information
 >

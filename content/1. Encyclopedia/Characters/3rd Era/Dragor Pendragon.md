@@ -10,7 +10,7 @@ modified: 2025-10-07T12:37:16.758-05:00
 >
 > # <font size=3>_The Son of Pain_</font>
 >
-> ![[z_Assets/Chara/Dragor.png]]
+> ![[Assets/Chara/Dragor.png]]
 >
 > ###### Basic Information
 >

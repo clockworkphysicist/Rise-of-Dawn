@@ -10,7 +10,7 @@ modified: 2026-04-14T12:01:08.315-05:00
 >
 > # <font size=3>_The Weight of Sin_</font>
 >
-> ![[z_Assets/Chara/Fr. Chandelier.png]]
+> ![[Assets/Chara/Fr. Chandelier.png]]
 >
 > ###### Basic Information
 >

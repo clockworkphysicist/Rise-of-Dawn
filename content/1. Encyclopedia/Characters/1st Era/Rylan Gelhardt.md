@@ -10,7 +10,7 @@ modified: 2025-10-05T16:39:49.842-05:00
 >
 > # <font size=3>_Honor bound until the End_</font>
 >
-> ![[z_Assets/Chara/Rylan.png]]
+> ![[Assets/Chara/Rylan.png]]
 >
 > ###### Basic Information
 >

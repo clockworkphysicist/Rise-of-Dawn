@@ -10,7 +10,7 @@ modified: 2026-04-14T13:51:34.627-05:00
 >
 > # <font size=3>_Transient and Ephemeral_</font>
 >
-> ![[z_Assets/Chara/Ezinal.png]]
+> ![[Assets/Chara/Ezinal.png]]
 >
 > ###### Basic Information
 >

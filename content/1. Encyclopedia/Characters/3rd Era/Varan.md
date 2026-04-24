@@ -10,7 +10,7 @@ modified: 2026-04-13T19:22:42.284-05:00
 >
 > # <font size=3>_Might of the Stars_</font>
 >
-> ![[z_Assets/Chara/Varan.png]]
+> ![[Assets/Chara/Varan.png]]
 >
 > ###### Basic Information
 >

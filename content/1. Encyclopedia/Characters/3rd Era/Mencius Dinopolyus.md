@@ -10,7 +10,7 @@ modified: 2025-08-21T02:17:24.202-05:00
 >
 > # <font size=3>_The Divine Right_</font>
 >
-> ![[z_Assets/Chara/Mencius.png]]
+> ![[Assets/Chara/Mencius.png]]
 >
 > ###### Basic Information
 >

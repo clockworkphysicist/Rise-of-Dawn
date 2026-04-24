@@ -10,7 +10,7 @@ modified: 2026-04-19T12:58:31.829-05:00
 >
 > # <font size=3>_I Am, I Am_</font>
 >
-> ![[z_Assets/Chara/Valerie.png]]
+> ![[Assets/Chara/Valerie.png]]
 >
 > ###### Basic Information
 >

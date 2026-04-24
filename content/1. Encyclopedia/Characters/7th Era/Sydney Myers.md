@@ -10,7 +10,7 @@ modified: 2026-04-19T12:53:15.038-05:00
 >
 > # <font size=3>_Smile, Darn Ya, Smile_</font>
 >
-> ![[z_Assets/Chara/Sydney.png]]
+> ![[Assets/Chara/Sydney.png]]
 >
 > ###### Basic Information
 >

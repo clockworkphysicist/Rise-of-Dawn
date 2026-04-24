@@ -10,7 +10,7 @@ modified: 2025-10-05T16:57:24.033-05:00
 >
 > # <font size=3>_Keeper of Order_</font>
 >
-> ![[z_Assets/Chara/Andrea.png]]
+> ![[Assets/Chara/Andrea.png]]
 >
 > ###### Basic Information
 >

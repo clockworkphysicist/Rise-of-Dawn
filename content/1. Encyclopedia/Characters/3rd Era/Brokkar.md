@@ -10,7 +10,7 @@ modified: 2025-10-07T01:50:55.943-05:00
 >
 > # <font size=3>_Inconceivable Thoughts of a Dark Mind_</font>
 >
-> ![[z_Assets/Chara/Brokkar.png]]
+> ![[Assets/Chara/Brokkar.png]]
 >
 > ###### Basic Information
 >

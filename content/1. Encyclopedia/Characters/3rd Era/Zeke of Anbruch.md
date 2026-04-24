@@ -10,7 +10,7 @@ modified: 2026-04-13T20:07:20.677-05:00
 >
 > # <font size=3>_FOR ME, BY ME! GYAHAHAHAHA!_</font>
 >
-> ![[z_Assets/Chara/Zeke.png]]
+> ![[Assets/Chara/Zeke.png]]
 >
 > ###### Basic Information
 >

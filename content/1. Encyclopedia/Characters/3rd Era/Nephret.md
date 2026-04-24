@@ -10,7 +10,7 @@ modified: 2026-04-19T14:08:20.911-05:00
 >
 > # <font size=3>_Absolute Maker_</font>
 >
-> ![[z_Assets/Chara/Nephret.png]]
+> ![[Assets/Chara/Nephret.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T13:18:12.746-05:00
 >
 > # <font size=3>_With My Bare Hands_</font>
 >
-> ![[z_Assets/Chara/Barry Stenton.png]]
+> ![[Assets/Chara/Barry Stenton.png]]
 >
 > ###### Basic Information
 >

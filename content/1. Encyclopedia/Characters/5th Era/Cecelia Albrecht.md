@@ -10,7 +10,7 @@ modified: 2026-04-14T13:29:45.201-05:00
 >
 > # <font size=3>_Defensor Fides_</font>
 >
-> ![[z_Assets/Chara/Cecelia.png]]
+> ![[Assets/Chara/Cecelia.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T14:43:03.561-05:00
 >
 > # <font size=3>_Air Headed Genius_</font>
 >
-> ![[z_Assets/Chara/Jessica.png]]
+> ![[Assets/Chara/Jessica.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-07T13:16:57.730-05:00
 >
 > # <font size=3>_Built to Last_</font>
 >
-> ![[z_Assets/Chara/Estulio.png]]
+> ![[Assets/Chara/Estulio.png]]
 >
 > ###### Basic Information
 >

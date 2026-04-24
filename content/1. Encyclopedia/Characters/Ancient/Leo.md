@@ -10,7 +10,7 @@ modified: 2025-10-04T02:29:45.365-05:00
 >
 > # <font size=3>_The All-powerful Burning Sun_</font>
 >
-> ![[z_Assets/Chara/Leo.png]]
+> ![[Assets/Chara/Leo.png]]
 >
 > ###### Basic Information
 >

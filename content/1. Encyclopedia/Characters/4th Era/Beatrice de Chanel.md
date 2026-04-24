@@ -10,7 +10,7 @@ modified: 2026-04-14T10:37:38.942-05:00
 >
 > # <font size=3>_Corruption of Desire_</font>
 >
-> ![[z_Assets/Chara/Beatrice.png]]
+> ![[Assets/Chara/Beatrice.png]]
 >
 > ###### Basic Information
 >

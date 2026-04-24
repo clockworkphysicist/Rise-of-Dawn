@@ -10,7 +10,7 @@ modified: 2026-04-13T19:06:55.001-05:00
 >
 > # <font size=3>_Dance of Destiny_</font>
 >
-> ![[z_Assets/Chara/Tsialia.png]]
+> ![[Assets/Chara/Tsialia.png]]
 >
 > ###### Basic Information
 >

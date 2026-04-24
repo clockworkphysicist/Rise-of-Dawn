@@ -10,7 +10,7 @@ modified: 2026-04-16T22:44:09.406-05:00
 >
 > # <font size=3>_Salvation in Shadow_</font>
 >
-> ![[z_Assets/Chara/Nyra.png]]
+> ![[Assets/Chara/Nyra.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-10T23:10:02.371-05:00
 >
 > # <font size=3>_The Eternal Rainbow Dragon_</font>
 >
-> ![[z_Assets/Chara/Aria.png]]
+> ![[Assets/Chara/Aria.png]]
 >
 > ###### Basic Information
 >

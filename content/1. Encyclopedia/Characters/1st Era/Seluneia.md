@@ -10,7 +10,7 @@ modified: 2025-10-05T16:41:40.483-05:00
 >
 > # <font size=3>_The Waning Moon_</font>
 >
-> ![[z_Assets/Chara/Seluneia.png]]
+> ![[Assets/Chara/Seluneia.png]]
 >
 > ###### Basic Information
 >

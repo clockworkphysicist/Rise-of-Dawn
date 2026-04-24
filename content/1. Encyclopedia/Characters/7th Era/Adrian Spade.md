@@ -10,7 +10,7 @@ modified: 2026-04-17T11:40:34.594-05:00
 >
 > # <font size=3>_Just One More Thing..._</font>
 >
-> ![[z_Assets/Chara/Adrian.png]]
+> ![[Assets/Chara/Adrian.png]]
 >
 > ###### Basic Information
 >

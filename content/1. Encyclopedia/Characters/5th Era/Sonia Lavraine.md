@@ -10,7 +10,7 @@ modified: 2026-04-17T00:31:16.880-05:00
 >
 > # <font size=3>_Hypnotize It_</font>
 >
-> ![[z_Assets/Chara/Sonia.png]]
+> ![[Assets/Chara/Sonia.png]]
 >
 > ###### Basic Information
 >

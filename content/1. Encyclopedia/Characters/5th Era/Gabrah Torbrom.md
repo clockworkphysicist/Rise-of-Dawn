@@ -10,7 +10,7 @@ modified: 2026-04-14T13:54:39.934-05:00
 >
 > # <font size=3>_Where Kindness Meets Desperation_</font>
 >
-> ![[z_Assets/Chara/Gabrah.png]]
+> ![[Assets/Chara/Gabrah.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T12:06:27.956-05:00
 >
 > # <font size=3>_I Wanna Fly High_</font>
 >
-> ![[z_Assets/Chara/Traci.png]]
+> ![[Assets/Chara/Traci.png]]
 >
 > ###### Basic Information
 >

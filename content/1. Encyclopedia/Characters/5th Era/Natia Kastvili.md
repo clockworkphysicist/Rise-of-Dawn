@@ -10,7 +10,7 @@ modified: 2026-04-16T23:09:15.921-05:00
 >
 > # <font size=3>_Arise Ye Workers From Your Slumbers_</font>
 >
-> ![[z_Assets/Chara/Natia.png]]
+> ![[Assets/Chara/Natia.png]]
 >
 > ###### Basic Information
 >

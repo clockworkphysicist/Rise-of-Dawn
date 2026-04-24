@@ -10,7 +10,7 @@ modified: 2025-08-28T01:28:20.073-05:00
 >
 > # <font size=3>_The God-King of the Sun_</font>
 >
-> ![[z_Assets/Chara/Elias.png]]
+> ![[Assets/Chara/Elias.png]]
 >
 > ###### Basic Information
 >

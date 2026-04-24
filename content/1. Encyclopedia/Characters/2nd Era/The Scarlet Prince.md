@@ -10,7 +10,7 @@ modified: 2025-10-05T17:31:32.322-05:00
 >
 > # <font size=3>_Scarlet Blood, Ceaseless Mind_</font>
 >
-> ![[z_Assets/Chara/The Scarlet Prince.png]]
+> ![[Assets/Chara/The Scarlet Prince.png]]
 >
 > ###### Basic Information
 >

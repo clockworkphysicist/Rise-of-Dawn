@@ -10,7 +10,7 @@ modified: 2026-04-14T13:50:25.787-05:00
 >
 > # <font size=3>_Memory of Fear_</font>
 >
-> ![[z_Assets/Chara/Elizabeth.png]]
+> ![[Assets/Chara/Elizabeth.png]]
 >
 > ###### Basic Information
 >

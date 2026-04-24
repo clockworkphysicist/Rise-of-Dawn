@@ -10,7 +10,7 @@ modified: 2026-04-16T22:48:52.356-05:00
 >
 > # <font size=3>_Clean Sheets_</font>
 >
-> ![[z_Assets/Chara/Ophelia Gaile.png]]
+> ![[Assets/Chara/Ophelia Gaile.png]]
 >
 > ###### Basic Information
 >

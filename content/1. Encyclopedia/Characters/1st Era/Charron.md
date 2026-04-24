@@ -10,7 +10,7 @@ modified: 2025-10-05T16:34:27.602-05:00
 >
 > # <font size=3>_An Honorable Death_</font>
 >
-> ![[z_Assets/Chara/Charron.png]]
+> ![[Assets/Chara/Charron.png]]
 >
 > ###### Basic Information
 >

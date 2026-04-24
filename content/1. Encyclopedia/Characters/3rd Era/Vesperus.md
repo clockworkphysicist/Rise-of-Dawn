@@ -10,7 +10,7 @@ modified: 2026-04-13T19:36:25.037-05:00
 >
 > # <font size=3>_No Ordinary Love_</font>
 >
-> ![[z_Assets/Chara/Vesperus.png]]
+> ![[Assets/Chara/Vesperus.png]]
 >
 > ###### Basic Information
 >

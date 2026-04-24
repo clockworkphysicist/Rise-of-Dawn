@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:06:14.023-05:00
-modified: 2025-08-28T03:06:30.498-05:00
+modified: 2026-04-21T10:34:11.496-05:00
 ---
 
 > [!infobox]
 >
 > # Dral'Serar
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

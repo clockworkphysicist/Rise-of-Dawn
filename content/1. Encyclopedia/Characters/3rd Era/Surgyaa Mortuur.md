@@ -10,7 +10,7 @@ modified: 2025-12-22T20:49:15.949-06:00
 >
 > # <font size=3>_Alluring Fragrance_</font>
 >
-> ![[z_Assets/Chara/Surgyaa.png]]
+> ![[Assets/Chara/Surgyaa.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T15:04:58.658-05:00
 >
 > # <font size=3>_Familia es Todos_</font>
 >
-> ![[z_Assets/Chara/Gabriella.png]]
+> ![[Assets/Chara/Gabriella.png]]
 >
 > ###### Basic Information
 >

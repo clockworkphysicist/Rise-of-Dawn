@@ -10,7 +10,7 @@ modified: 2026-04-17T14:44:12.453-05:00
 >
 > # <font size=3>_Addicted to the Shindig_</font>
 >
-> ![[z_Assets/Chara/Esran.png]]
+> ![[Assets/Chara/Esran.png]]
 >
 > ###### Basic Information
 >

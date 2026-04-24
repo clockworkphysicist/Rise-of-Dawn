@@ -10,7 +10,7 @@ modified: 2025-10-05T17:26:29.542-05:00
 >
 > # <font size=3>_Finding Beauty in All_</font>
 >
-> ![[z_Assets/Chara/Oggog-Brapfphag.png]]
+> ![[Assets/Chara/Oggog-Brapfphag.png]]
 >
 > ###### Basic Information
 >

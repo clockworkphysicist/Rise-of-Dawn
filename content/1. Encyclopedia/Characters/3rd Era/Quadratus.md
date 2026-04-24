@@ -10,7 +10,7 @@ modified: 2026-04-11T00:57:11.913-05:00
 >
 > # <font size=3>_Accident Prone_</font>
 >
-> ![[z_Assets/Chara/Quadratus.png]]
+> ![[Assets/Chara/Quadratus.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T13:37:12.204-05:00
 >
 > # <font size=3>_A More Eccentric Clarity_</font>
 >
-> ![[z_Assets/Chara/Lucy Davren.png]]
+> ![[Assets/Chara/Lucy Davren.png]]
 >
 > ###### Basic Information
 >

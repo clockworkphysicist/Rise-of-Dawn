@@ -10,7 +10,7 @@ modified: 2025-10-14T02:49:53.899-05:00
 >
 > # <font size=3>_Birds of a Feather_</font>
 >
-> ![[z_Assets/Chara/Miki.png]]
+> ![[Assets/Chara/Miki.png]]
 >
 > ###### Basic Information
 >

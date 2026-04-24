@@ -10,7 +10,7 @@ modified: 2026-04-16T13:40:30.211-05:00
 >
 > # <font size=3>_Liberté, égalité, fraternité_</font>
 >
-> ![[z_Assets/Chara/Malcolm.png]]
+> ![[Assets/Chara/Malcolm.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-05T17:20:57.824-05:00
 >
 > # <font size=3>_A Violent Death_</font>
 >
-> ![[z_Assets/Chara/Mania.png]]
+> ![[Assets/Chara/Mania.png]]
 >
 > ###### Basic Information
 >

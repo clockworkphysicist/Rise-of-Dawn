@@ -10,7 +10,7 @@ modified: 2025-10-07T12:33:25.898-05:00
 >
 > # <font size=3>_Very cool_</font>
 >
-> ![[z_Assets/Chara/Dino.png]]
+> ![[Assets/Chara/Dino.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T12:20:59.098-05:00
 >
 > # <font size=3>_Temptress of the Damned_</font>
 >
-> ![[z_Assets/Chara/Desire.png]]
+> ![[Assets/Chara/Desire.png]]
 >
 > ###### Basic Information
 >

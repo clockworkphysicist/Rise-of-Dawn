@@ -10,7 +10,7 @@ modified: 2025-10-11T00:40:53.361-05:00
 >
 > # <font size=3>_All Things In Their Rightful Place_</font>
 >
-> ![[z_Assets/Chara/Eziraq.png]]
+> ![[Assets/Chara/Eziraq.png]]
 >
 > ###### Basic Information
 >

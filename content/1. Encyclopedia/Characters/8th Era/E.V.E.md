@@ -10,7 +10,7 @@ modified: 2026-04-19T13:03:13.042-05:00
 >
 > # <font size=3>_Butterfly. Flutter By._</font>
 >
-> ![[z_Assets/Chara/EVE.png]]
+> ![[Assets/Chara/EVE.png]]
 >
 > ###### Basic Information
 >

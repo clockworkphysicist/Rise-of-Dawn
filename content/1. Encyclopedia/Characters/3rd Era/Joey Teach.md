@@ -10,7 +10,7 @@ modified: 2026-04-11T00:48:41.737-05:00
 >
 > # <font size=3>_Quick Hands, Silver Tongue_</font>
 >
-> ![[z_Assets/Chara/Joey (Adult).png]]
+> ![[Assets/Chara/Joey (Adult).png]]
 >
 > ###### Basic Information
 >

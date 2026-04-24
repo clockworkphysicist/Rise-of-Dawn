@@ -10,7 +10,7 @@ modified: 2026-04-17T11:17:31.390-05:00
 >
 > # <font size=3>_Do You Think You Love Me?_</font>
 >
-> ![[z_Assets/Chara/Mary Jane.png]]
+> ![[Assets/Chara/Mary Jane.png]]
 >
 > ###### Basic Information
 >

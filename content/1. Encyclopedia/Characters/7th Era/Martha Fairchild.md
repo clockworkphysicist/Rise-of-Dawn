@@ -10,7 +10,7 @@ modified: 2026-04-19T11:54:11.112-05:00
 >
 > # <font size=3>_Shame in the Silence_</font>
 >
-> ![[z_Assets/Chara/Martha.png]]
+> ![[Assets/Chara/Martha.png]]
 >
 > ###### Basic Information
 >

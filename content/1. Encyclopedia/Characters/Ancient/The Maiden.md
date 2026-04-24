@@ -10,7 +10,7 @@ modified: 2025-10-04T02:45:38.559-05:00
 >
 > # <font size=3>_The Keeper of the Magical Realms_</font>
 >
-> ![[z_Assets/Chara/The Maiden.png]]
+> ![[Assets/Chara/The Maiden.png]]
 >
 > ###### Basic Information
 >

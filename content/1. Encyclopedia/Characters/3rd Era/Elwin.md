@@ -10,7 +10,7 @@ modified: 2025-10-07T13:05:26.246-05:00
 >
 > # <font size=3>_The King_</font>
 >
-> ![[z_Assets/Chara/Elwin.png]]
+> ![[Assets/Chara/Elwin.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-07T12:47:53.708-05:00
 >
 > # <font size=3>_Protecting Innocence_</font>
 >
-> ![[z_Assets/Chara/Ellia.png]]
+> ![[Assets/Chara/Ellia.png]]
 >
 > ###### Basic Information
 >

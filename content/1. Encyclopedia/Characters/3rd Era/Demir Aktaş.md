@@ -10,7 +10,7 @@ modified: 2025-10-07T12:31:32.085-05:00
 >
 > # <font size=3>_Janissary_</font>
 >
-> ![[z_Assets/Chara/Demir.png]]
+> ![[Assets/Chara/Demir.png]]
 >
 > ###### Basic Information
 >

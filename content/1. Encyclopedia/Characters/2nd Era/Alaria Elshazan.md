@@ -10,7 +10,7 @@ modified: 2025-10-05T16:51:41.090-05:00
 >
 > # <font size=3>_Weaver of Fates_</font>
 >
-> ![[z_Assets/Chara/Alaria.png]]
+> ![[Assets/Chara/Alaria.png]]
 >
 > ###### Basic Information
 >

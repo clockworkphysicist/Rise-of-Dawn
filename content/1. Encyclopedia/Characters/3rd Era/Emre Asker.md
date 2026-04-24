@@ -10,7 +10,7 @@ modified: 2025-10-07T13:08:00.870-05:00
 >
 > # <font size=3>_Frantic Stabilizer_</font>
 >
-> ![[z_Assets/Chara/Emre.png]]
+> ![[Assets/Chara/Emre.png]]
 >
 > ###### Basic Information
 >

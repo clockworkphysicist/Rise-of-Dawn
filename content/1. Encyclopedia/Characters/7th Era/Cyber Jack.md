@@ -10,7 +10,7 @@ modified: 2026-04-17T13:59:41.991-05:00
 >
 > # <font size=3>_You are always the product._</font>
 >
-> ![[z_Assets/Chara/Cyber Jack.png]]
+> ![[Assets/Chara/Cyber Jack.png]]
 >
 > ###### Basic Information
 >

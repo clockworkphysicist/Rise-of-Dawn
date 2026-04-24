@@ -10,7 +10,7 @@ modified: 2025-10-04T01:33:55.511-05:00
 >
 > # <font size=3>_Celestial Duality Manifest_</font>
 >
-> ![[z_Assets/Chara/Celestral.png]]
+> ![[Assets/Chara/Celestral.png]]
 >
 > ###### Basic Information
 >

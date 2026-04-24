@@ -10,7 +10,7 @@ modified: 2025-12-22T12:23:57.310-06:00
 >
 > # <font size=3>_The Lady of Gemstones_</font>
 >
-> ![[z_Assets/Chara/Relzeia.png]]
+> ![[Assets/Chara/Relzeia.png]]
 >
 > ###### Basic Information
 >

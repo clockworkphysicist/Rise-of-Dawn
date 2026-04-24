@@ -10,7 +10,7 @@ modified: 2026-04-19T11:56:24.442-05:00
 >
 > # <font size=3>_An Alluring Aroma_</font>
 >
-> ![[z_Assets/Chara/Marzipan.png]]
+> ![[Assets/Chara/Marzipan.png]]
 >
 > ###### Basic Information
 >

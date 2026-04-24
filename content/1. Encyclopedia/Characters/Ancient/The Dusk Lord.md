@@ -10,7 +10,7 @@ modified: 2025-08-28T00:48:54.637-05:00
 >
 > # <font size=3>_All Consuming Power_</font>
 >
-> ![[z_Assets/Chara/The Dusk Lord.png]]
+> ![[Assets/Chara/The Dusk Lord.png]]
 >
 > ###### Basic Information
 >

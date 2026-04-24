@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:21:09.221-05:00
-modified: 2025-08-28T03:21:30.365-05:00
+modified: 2026-04-21T10:34:12.598-05:00
 ---
 
 > [!infobox]
 >
 > # The Blackroad Directive
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-10T22:37:27.758-05:00
 >
 > # <font size=3>_She Who Fights Destiny_</font>
 >
-> ![[z_Assets/Chara/Maria.png]]
+> ![[Assets/Chara/Maria.png]]
 >
 > ###### Basic Information
 >

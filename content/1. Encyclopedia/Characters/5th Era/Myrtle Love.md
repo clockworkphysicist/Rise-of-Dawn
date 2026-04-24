@@ -10,7 +10,7 @@ modified: 2026-04-16T22:36:52.709-05:00
 >
 > # <font size=3>_Do You Want Me?_</font>
 >
-> ![[z_Assets/Chara/Myrtle.png]]
+> ![[Assets/Chara/Myrtle.png]]
 >
 > ###### Basic Information
 >

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:03:18.635-05:00
-modified: 2025-08-28T03:03:34.502-05:00
+modified: 2026-04-21T10:34:11.484-05:00
 ---
 
 > [!infobox]
 >
 > # Danthyr Rock
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

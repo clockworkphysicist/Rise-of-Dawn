@@ -10,7 +10,7 @@ modified: 2025-10-12T02:40:58.250-05:00
 >
 > # <font size=3>_Sword and Shield of the Crown_</font>
 >
-> ![[z_Assets/Chara/John.png]]
+> ![[Assets/Chara/John.png]]
 >
 > ###### Basic Information
 >

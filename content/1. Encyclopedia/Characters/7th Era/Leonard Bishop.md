@@ -10,7 +10,7 @@ modified: 2026-04-19T11:45:30.008-05:00
 >
 > # <font size=3>_The Ephemeral World Fading_</font>
 >
-> ![[z_Assets/Chara/Leonard.png]]
+> ![[Assets/Chara/Leonard.png]]
 >
 > ###### Basic Information
 >

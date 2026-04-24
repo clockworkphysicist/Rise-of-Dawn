@@ -10,7 +10,7 @@ modified: 2026-04-17T11:09:49.947-05:00
 >
 > # <font size=3>_Step Right Up_</font>
 >
-> ![[z_Assets/Chara/Lepa.png]]
+> ![[Assets/Chara/Lepa.png]]
 >
 > ###### Basic Information
 >

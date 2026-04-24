@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:09:30.032-05:00
-modified: 2025-08-28T13:28:10.226-05:00
+modified: 2026-04-21T10:34:12.292-05:00
 ---
 
 > [!infobox]
 >
 > # Lunarians
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

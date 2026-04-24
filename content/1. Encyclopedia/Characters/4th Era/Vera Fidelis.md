@@ -10,8 +10,8 @@ modified: 2025-08-28T13:45:53.362-05:00
 >
 > # <font size=3>_Not a Butterfly_</font>
 >
-> ![[z_Assets/Chara/Vera.png]]
-> ![[z_Assets/Chara/Vera (Daemonid).png]]
+> ![[Assets/Chara/Vera.png]]
+> ![[Assets/Chara/Vera (Daemonid).png]]
 >
 > ###### Basic Information
 >

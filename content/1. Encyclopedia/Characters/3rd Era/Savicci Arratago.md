@@ -10,7 +10,7 @@ modified: 2025-12-22T15:07:32.630-06:00
 >
 > # <font size=3>_A Flame in the Dark_</font>
 >
-> ![[z_Assets/Chara/Savicci.png]]
+> ![[Assets/Chara/Savicci.png]]
 >
 > ###### Basic Information
 >

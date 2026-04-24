@@ -10,7 +10,7 @@ modified: 2025-10-03T17:37:33.057-05:00
 >
 > # <font size=3>_The Ever Present and Ephemeral_</font>
 >
-> ![[z_Assets/Chara/Belenos.png]]
+> ![[Assets/Chara/Belenos.png]]
 >
 > ###### Basic Information
 >

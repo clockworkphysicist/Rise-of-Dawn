@@ -10,7 +10,7 @@ modified: 2025-10-11T17:23:29.215-05:00
 >
 > # <font size=3>_Symphony of Destruction_</font>
 >
-> ![[z_Assets/Chara/Gertrude.png]]
+> ![[Assets/Chara/Gertrude.png]]
 >
 > ###### Basic Information
 >

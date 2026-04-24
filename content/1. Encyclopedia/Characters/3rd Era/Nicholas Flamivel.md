@@ -10,7 +10,7 @@ modified: 2025-12-22T12:09:57.478-06:00
 >
 > # <font size=3>_Scribe of Flame_</font>
 >
-> ![[z_Assets/Chara/Nicholas.png]]
+> ![[Assets/Chara/Nicholas.png]]
 >
 > ###### Basic Information
 >

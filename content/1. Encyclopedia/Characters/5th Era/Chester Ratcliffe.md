@@ -10,7 +10,7 @@ modified: 2026-04-19T13:58:09.523-05:00
 >
 > # <font size=3>_Vote of Confidence_</font>
 >
-> ![[z_Assets/Chara/Chester.png]]
+> ![[Assets/Chara/Chester.png]]
 >
 > ###### Basic Information
 >

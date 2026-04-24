@@ -10,7 +10,7 @@ modified: 2026-04-11T00:50:45.007-05:00
 >
 > # <font size=3>_Undying Madness_</font>
 >
-> ![[z_Assets/Chara/Kalindor (Lich).png]]
+> ![[Assets/Chara/Kalindor (Lich).png]]
 >
 > ###### Basic Information
 >

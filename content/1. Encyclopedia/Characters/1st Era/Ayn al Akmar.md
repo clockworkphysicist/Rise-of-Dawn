@@ -10,7 +10,7 @@ modified: 2025-10-05T16:08:33.885-05:00
 >
 > # <font size=3>_The Might of the Ancients_</font>
 >
-> ![[z_Assets/Chara/Ayn.png]]
+> ![[Assets/Chara/Ayn.png]]
 >
 > ###### Basic Information
 >

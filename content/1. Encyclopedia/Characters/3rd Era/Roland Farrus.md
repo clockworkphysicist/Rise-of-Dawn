@@ -10,7 +10,7 @@ modified: 2025-12-22T14:54:40.142-06:00
 >
 > # <font size=3>_The Lord of Lions_</font>
 >
-> ![[z_Assets/Chara/Roland.png]]
+> ![[Assets/Chara/Roland.png]]
 >
 > ###### Basic Information
 >

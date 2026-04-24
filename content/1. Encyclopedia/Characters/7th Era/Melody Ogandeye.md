@@ -10,7 +10,7 @@ modified: 2026-04-19T12:02:58.683-05:00
 >
 > # <font size=3>_Kaboom_</font>
 >
-> ![[z_Assets/Chara/Melody.png]]
+> ![[Assets/Chara/Melody.png]]
 >
 > ###### Basic Information
 >

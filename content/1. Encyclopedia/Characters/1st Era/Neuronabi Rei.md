@@ -10,7 +10,7 @@ modified: 2026-04-10T23:45:13.575-05:00
 >
 > # <font size=3>_The Fundamental Force_</font>
 >
-> ![[z_Assets/Chara/Neuronabi.png]]
+> ![[Assets/Chara/Neuronabi.png]]
 >
 > ###### Basic Information
 >

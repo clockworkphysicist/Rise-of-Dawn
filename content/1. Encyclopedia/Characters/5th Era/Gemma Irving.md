@@ -10,7 +10,7 @@ modified: 2026-04-14T13:55:48.154-05:00
 >
 > # <font size=3>_Restless Dreams_</font>
 >
-> ![[z_Assets/Chara/Gemma.png]]
+> ![[Assets/Chara/Gemma.png]]
 >
 > ###### Basic Information
 >

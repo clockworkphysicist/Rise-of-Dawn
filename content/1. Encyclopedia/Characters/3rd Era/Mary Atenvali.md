@@ -10,7 +10,7 @@ modified: 2025-10-14T02:20:30.855-05:00
 >
 > # <font size=3>_The Prophet_</font>
 >
-> ![[z_Assets/Chara/Mary.png]]
+> ![[Assets/Chara/Mary.png]]
 >
 > ###### Basic Information
 >

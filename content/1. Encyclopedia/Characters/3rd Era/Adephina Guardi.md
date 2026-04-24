@@ -10,7 +10,7 @@ modified: 2025-10-07T13:18:24.441-05:00
 >
 > # <font size=3>_Scourge of the Wicked_</font>
 >
-> ![[z_Assets/Chara/Adephina.png]]
+> ![[Assets/Chara/Adephina.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T09:50:48.019-05:00
 >
 > # <font size=3>_Joy in the Sorrow_</font>
 >
-> ![[z_Assets/Chara/Sybil.png]]
+> ![[Assets/Chara/Sybil.png]]
 >
 > ###### Basic Information
 >

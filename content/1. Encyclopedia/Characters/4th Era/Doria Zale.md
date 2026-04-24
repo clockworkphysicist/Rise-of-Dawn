@@ -10,7 +10,7 @@ modified: 2026-04-14T11:51:23.527-05:00
 >
 > # <font size=3>_The Sea_</font>
 >
-> ![[z_Assets/Chara/Doria.png]]
+> ![[Assets/Chara/Doria.png]]
 >
 > ###### Basic Information
 >

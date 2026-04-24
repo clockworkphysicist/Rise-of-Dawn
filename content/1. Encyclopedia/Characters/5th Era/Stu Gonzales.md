@@ -10,7 +10,7 @@ modified: 2026-04-17T00:34:52.949-05:00
 >
 > # <font size=3>_A Common Good, A Common Man_</font>
 >
-> ![[z_Assets/Chara/Stu.png]]
+> ![[Assets/Chara/Stu.png]]
 >
 > ###### Basic Information
 >

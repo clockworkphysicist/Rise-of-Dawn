@@ -10,7 +10,7 @@ modified: 2025-10-12T02:39:07.909-05:00
 >
 > # <font size=3>_Everyone Was Born to Bleed_</font>
 >
-> ![[z_Assets/Chara/Joanna.png]]
+> ![[Assets/Chara/Joanna.png]]
 > ![[KoikatsuParty-2025-06-29-16-43-21-Render.png]]
 >
 > ###### Basic Information

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-09-29T16:53:57.203-05:00
-modified: 2025-09-29T17:18:55.266-05:00
+modified: 2026-04-21T10:34:12.641-05:00
 ---
 
 > [!infobox]
 >
 > # The Decapitations
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

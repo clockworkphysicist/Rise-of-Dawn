@@ -10,7 +10,7 @@ modified: 2026-04-14T11:57:28.903-05:00
 >
 > # <font size=3>_Our Sailing Time_</font>
 >
-> ![[z_Assets/Chara/Farthing.png]]
+> ![[Assets/Chara/Farthing.png]]
 >
 > ###### Basic Information
 >

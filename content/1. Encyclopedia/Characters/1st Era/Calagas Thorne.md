@@ -10,7 +10,7 @@ modified: 2025-10-05T16:32:26.623-05:00
 >
 > # <font size=3>_The Undying Tyrant_</font>
 >
-> ![[z_Assets/Chara/Calagas.png]]
+> ![[Assets/Chara/Calagas.png]]
 >
 > ###### Basic Information
 >

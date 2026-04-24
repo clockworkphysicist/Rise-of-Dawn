@@ -10,7 +10,7 @@ modified: 2026-04-19T12:56:00.797-05:00
 >
 > # <font size=3>_Am I More Than You Bargained For?_</font>
 >
-> ![[z_Assets/Chara/Tristan.png]]
+> ![[Assets/Chara/Tristan.png]]
 >
 > ###### Basic Information
 >

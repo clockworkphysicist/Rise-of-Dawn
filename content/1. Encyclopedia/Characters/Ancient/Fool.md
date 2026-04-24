@@ -10,7 +10,7 @@ modified: 2026-04-10T22:55:35.838-05:00
 >
 > # <font size=3>_Mania and Apathy_</font>
 >
-> ![[z_Assets/Chara/0, The Fool.png]]
+> ![[Assets/Chara/0, The Fool.png]]
 >
 > ###### Basic Information
 >

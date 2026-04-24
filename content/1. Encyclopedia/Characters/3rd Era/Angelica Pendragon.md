@@ -10,7 +10,7 @@ modified: 2025-10-05T18:16:04.209-05:00
 >
 > # <font size=3>_Bathed in Radiant Dawn_</font>
 >
-> ![[z_Assets/Chara/Angelica.png]]
+> ![[Assets/Chara/Angelica.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-16T22:51:32.659-05:00
 >
 > # <font size=3>_Beholden to None_</font>
 >
-> ![[z_Assets/Chara/Otto.png]]
+> ![[Assets/Chara/Otto.png]]
 >
 > ###### Basic Information
 >

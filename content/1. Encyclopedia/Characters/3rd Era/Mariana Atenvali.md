@@ -10,7 +10,7 @@ modified: 2025-10-14T02:18:35.532-05:00
 >
 > # <font size=3>_How oft on Yonder Grave, Sweetheart_</font>
 >
-> ![[z_Assets/Chara/Mariana.png]]
+> ![[Assets/Chara/Mariana.png]]
 >
 > ###### Basic Information
 >

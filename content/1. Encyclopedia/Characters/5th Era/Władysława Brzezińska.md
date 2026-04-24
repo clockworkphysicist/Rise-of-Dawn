@@ -10,7 +10,7 @@ modified: 2026-04-17T11:00:35.535-05:00
 >
 > # <font size=3>_For Our Freedom and Yours_</font>
 >
-> ![[z_Assets/Chara/Władysława.png]]
+> ![[Assets/Chara/Władysława.png]]
 >
 > ###### Basic Information
 >

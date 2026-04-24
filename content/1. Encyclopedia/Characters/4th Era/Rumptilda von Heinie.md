@@ -10,7 +10,7 @@ modified: 2026-04-14T12:34:07.580-05:00
 >
 > # <font size=3>_High Society Humor_</font>
 >
-> ![[z_Assets/Chara/Rumptilda.png]]
+> ![[Assets/Chara/Rumptilda.png]]
 >
 > ###### Basic Information
 >

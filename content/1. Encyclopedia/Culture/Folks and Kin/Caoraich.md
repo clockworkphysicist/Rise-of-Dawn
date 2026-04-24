@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:08:52.041-05:00
-modified: 2025-08-28T13:30:00.913-05:00
+modified: 2026-04-21T10:34:12.190-05:00
 ---
 
 > [!infobox]
 >
 > # Caoraich
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T11:58:40.943-05:00
 >
 > # <font size=3>_Dark Mistress of the Abbey_</font>
 >
-> ![[z_Assets/Chara/Felicity.png]]
+> ![[Assets/Chara/Felicity.png]]
 >
 > ###### Basic Information
 >

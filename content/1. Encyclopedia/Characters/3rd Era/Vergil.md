@@ -10,7 +10,7 @@ modified: 2026-04-13T19:30:06.343-05:00
 >
 > # <font size=3>_Complete and Utter Dominance_</font>
 >
-> ![[z_Assets/Chara/Vergil.png]]
+> ![[Assets/Chara/Vergil.png]]
 >
 > ###### Basic Information
 >

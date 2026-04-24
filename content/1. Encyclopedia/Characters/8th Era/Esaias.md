@@ -10,7 +10,7 @@ modified: 2026-04-19T13:04:07.430-05:00
 >
 > # <font size=3>_BEWARE, I LIVE._</font>
 >
-> ![[z_Assets/Chara/Esaias.png]]
+> ![[Assets/Chara/Esaias.png]]
 >
 > ###### Basic Information
 >

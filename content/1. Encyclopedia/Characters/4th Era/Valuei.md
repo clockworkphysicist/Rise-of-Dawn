@@ -10,7 +10,7 @@ modified: 2026-04-14T12:40:53.591-05:00
 >
 > # <font size=3>_Gliding on Winds of Change_</font>
 >
-> ![[z_Assets/Chara/Valuei.png]]
+> ![[Assets/Chara/Valuei.png]]
 >
 > ###### Basic Information
 >

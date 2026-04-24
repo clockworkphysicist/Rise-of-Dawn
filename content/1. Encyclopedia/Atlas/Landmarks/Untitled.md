@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-06-06T18:59:40.000-05:00
-modified: 2025-08-28T01:18:59.667-05:00
+modified: 2026-04-21T10:34:11.541-05:00
 ---
 
 > [!infobox]
 >
 > # Untitled
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

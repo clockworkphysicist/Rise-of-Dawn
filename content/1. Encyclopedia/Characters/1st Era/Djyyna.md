@@ -10,7 +10,7 @@ modified: 2025-10-05T16:36:06.528-05:00
 >
 > # <font size=3>_Your wish is my command_</font>
 >
-> ![[z_Assets/Chara/Djyyna.png]]
+> ![[Assets/Chara/Djyyna.png]]
 >
 > ###### Basic Information
 >

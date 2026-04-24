@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-08-17T11:19:40.196-05:00
-modified: 2025-08-17T11:27:38.964-05:00
+modified: 2026-04-21T10:34:13.457-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2025-08-17T11:27:38.964-05:00
 >
 > # <font size=3>\*\*</font>
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

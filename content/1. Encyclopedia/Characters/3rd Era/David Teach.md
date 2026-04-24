@@ -10,7 +10,7 @@ modified: 2025-10-07T03:04:25.144-05:00
 >
 > # <font size=3>_For Family and Homestead_</font>
 >
-> ![[z_Assets/Chara/David.png]]
+> ![[Assets/Chara/David.png]]
 >
 > ###### Basic Information
 >

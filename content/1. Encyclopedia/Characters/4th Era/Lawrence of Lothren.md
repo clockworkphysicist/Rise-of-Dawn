@@ -10,7 +10,7 @@ modified: 2026-04-14T12:09:33.640-05:00
 >
 > # <font size=3>_La Perfecta Alegria_</font>
 >
-> ![[z_Assets/Chara/Fr. Lothren.png]]
+> ![[Assets/Chara/Fr. Lothren.png]]
 >
 > ###### Basic Information
 >

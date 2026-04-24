@@ -10,7 +10,7 @@ modified: 2025-10-05T17:13:02.985-05:00
 >
 > # <font size=3>_"Check this out"_</font>
 >
-> ![[z_Assets/Chara/Jorbalan.png]]
+> ![[Assets/Chara/Jorbalan.png]]
 >
 > ###### Basic Information
 >

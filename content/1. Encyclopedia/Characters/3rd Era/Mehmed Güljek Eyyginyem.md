@@ -10,7 +10,7 @@ modified: 2025-10-11T17:28:13.670-05:00
 >
 > # <font size=3>_Sails will be cut, sails will be sewn._</font>
 >
-> ![[z_Assets/Chara/Guljek.png]]
+> ![[Assets/Chara/Guljek.png]]
 >
 > ###### Basic Information
 >

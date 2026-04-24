@@ -10,7 +10,7 @@ modified: 2026-04-13T19:48:09.963-05:00
 >
 > # <font size=3>_Coming Right Up_</font>
 >
-> ![[z_Assets/Chara/Whitney.png]]
+> ![[Assets/Chara/Whitney.png]]
 >
 > ###### Basic Information
 >

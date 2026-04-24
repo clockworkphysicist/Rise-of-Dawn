@@ -10,7 +10,7 @@ modified: 2026-04-14T13:32:26.981-05:00
 >
 > # <font size=3>_Building Up, Heading Out_</font>
 >
-> ![[z_Assets/Chara/Credio Niven.png]]
+> ![[Assets/Chara/Credio Niven.png]]
 >
 > ###### Basic Information
 >

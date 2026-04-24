@@ -10,7 +10,7 @@ modified: 2025-12-22T12:11:57.400-06:00
 >
 > # <font size=3>_Demon Slayer of Tenbatsu_</font>
 >
-> ![[z_Assets/Chara/Norukami.png]]
+> ![[Assets/Chara/Norukami.png]]
 >
 > ###### Basic Information
 >

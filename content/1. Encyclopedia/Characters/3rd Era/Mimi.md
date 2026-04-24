@@ -10,7 +10,7 @@ modified: 2025-10-14T02:51:11.225-05:00
 >
 > # <font size=3>_I am me._</font>
 >
-> ![[z_Assets/Chara/Mimi.png]]
+> ![[Assets/Chara/Mimi.png]]
 >
 > ###### Basic Information
 >

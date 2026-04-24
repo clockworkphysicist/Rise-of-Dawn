@@ -10,7 +10,7 @@ modified: 2026-04-17T14:03:31.748-05:00
 >
 > # <font size=3>_Human Error_</font>
 >
-> ![[z_Assets/Chara/Datamosh.png]]
+> ![[Assets/Chara/Datamosh.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-12T02:57:44.418-05:00
 >
 > # <font size=3>_Courage Makes the Man_</font>
 >
-> ![[z_Assets/Chara/Londisizwe.png]]
+> ![[Assets/Chara/Londisizwe.png]]
 >
 > ###### Basic Information
 >

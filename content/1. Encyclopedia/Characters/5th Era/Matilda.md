@@ -10,7 +10,7 @@ modified: 2026-04-16T22:32:42.691-05:00
 >
 > # <font size=3>_Twisting Your Mind, Smashing Your Dreams_</font>
 >
-> ![[z_Assets/Chara/Matilda.png]]
+> ![[Assets/Chara/Matilda.png]]
 >
 > ###### Basic Information
 >

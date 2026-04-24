@@ -10,7 +10,7 @@ modified: 2026-04-17T10:57:43.963-05:00
 >
 > # <font size=3>_All Fun and Games_</font>
 >
-> ![[z_Assets/Chara/Wendel.png]]
+> ![[Assets/Chara/Wendel.png]]
 >
 > ###### Basic Information
 >

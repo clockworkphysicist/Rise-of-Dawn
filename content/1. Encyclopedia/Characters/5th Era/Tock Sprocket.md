@@ -10,7 +10,7 @@ modified: 2026-04-17T10:51:02.648-05:00
 >
 > # <font size=3>_The Younger Sprocket_</font>
 >
-> ![[z_Assets/Chara/Tick.png]]
+> ![[Assets/Chara/Tick.png]]
 >
 > ###### Basic Information
 >

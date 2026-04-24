@@ -10,7 +10,7 @@ modified: 2026-04-17T12:08:27.600-05:00
 >
 > # <font size=3>_The Protector of the Stars_</font>
 >
-> ![[z_Assets/Chara/Zack.png]]
+> ![[Assets/Chara/Zack.png]]
 >
 > ###### Basic Information
 >

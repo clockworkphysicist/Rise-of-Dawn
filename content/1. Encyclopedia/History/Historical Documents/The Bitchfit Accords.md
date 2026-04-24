@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-06-06T18:59:40.000-05:00
-modified: 2025-08-16T03:35:37.907-05:00
+modified: 2026-04-21T10:34:12.711-05:00
 ---
 
 > [!infobox]
 >
 > # The Bitchfit Accords
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T13:51:06.179-05:00
 >
 > # <font size=3>_Just Bounce That Booty_</font>
 >
-> ![[z_Assets/Chara/Phanny.png]]
+> ![[Assets/Chara/Phanny.png]]
 >
 > ###### Basic Information
 >

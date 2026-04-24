@@ -10,7 +10,7 @@ modified: 2026-04-11T00:21:10.854-05:00
 >
 > # <font size=3>_The First of the Moonlit Mages_</font>
 >
-> ![[z_Assets/Chara/Seledar.png]]
+> ![[Assets/Chara/Seledar.png]]
 >
 > ###### Basic Information
 >

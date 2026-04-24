@@ -10,7 +10,7 @@ modified: 2026-04-16T22:34:36.183-05:00
 >
 > # <font size=3>_Our Mighty Fallen, Be Cloaked In Power_</font>
 >
-> ![[z_Assets/Chara/Mayella.png]]
+> ![[Assets/Chara/Mayella.png]]
 >
 > ###### Basic Information
 >

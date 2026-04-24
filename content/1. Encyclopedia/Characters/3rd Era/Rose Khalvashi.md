@@ -10,7 +10,7 @@ modified: 2026-04-11T01:03:32.396-05:00
 >
 > # <font size=3>_Time to Duel_</font>
 >
-> ![[z_Assets/Chara/Rose.png]]
+> ![[Assets/Chara/Rose.png]]
 >
 > ###### Basic Information
 >

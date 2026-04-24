@@ -10,7 +10,7 @@ modified: 2026-04-16T23:11:47.724-05:00
 >
 > # <font size=3>_Owe My Soul to the Company Store_</font>
 >
-> ![[z_Assets/Chara/Rani.png]]
+> ![[Assets/Chara/Rani.png]]
 >
 > ###### Basic Information
 >

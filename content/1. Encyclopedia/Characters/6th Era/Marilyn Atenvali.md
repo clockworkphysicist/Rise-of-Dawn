@@ -10,7 +10,7 @@ modified: 2026-04-17T11:15:50.883-05:00
 >
 > # <font size=3>_Straight out of Hell, One of a Kind_</font>
 >
-> ![[z_Assets/Chara/Marilyn.png]]
+> ![[Assets/Chara/Marilyn.png]]
 >
 > ###### Basic Information
 >

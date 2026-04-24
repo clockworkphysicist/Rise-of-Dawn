@@ -10,7 +10,7 @@ modified: 2025-12-22T12:15:53.423-06:00
 >
 > # <font size=3>_GF for Sale_</font>
 >
-> ![[z_Assets/Chara/Patawii.png]]
+> ![[Assets/Chara/Patawii.png]]
 >
 > ###### Basic Information
 >

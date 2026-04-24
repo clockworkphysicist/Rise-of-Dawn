@@ -10,7 +10,7 @@ modified: 2026-04-11T01:18:43.650-05:00
 >
 > # <font size=3>_Hear No Evil_</font>
 >
-> ![[z_Assets/Chara/Theodora.png]]
+> ![[Assets/Chara/Theodora.png]]
 >
 > ###### Basic Information
 >

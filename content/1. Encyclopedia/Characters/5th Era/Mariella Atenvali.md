@@ -10,7 +10,7 @@ modified: 2026-04-16T18:52:17.051-05:00
 >
 > # <font size=3>_Life is a Cabaret_</font>
 >
-> ![[z_Assets/Chara/Mariella.png]]
+> ![[Assets/Chara/Mariella.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-10-12T02:18:52.134-05:00
 >
 > # <font size=3>_O Virtus Sapientie_</font>
 >
-> ![[z_Assets/Chara/Ioannis.png]]
+> ![[Assets/Chara/Ioannis.png]]
 >
 > ###### Basic Information
 >

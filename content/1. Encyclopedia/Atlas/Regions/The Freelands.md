@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T02:22:11.975-05:00
-modified: 2025-08-28T02:22:27.439-05:00
+modified: 2026-04-21T10:34:11.586-05:00
 ---
 
 > [!infobox]
 >
 > # The Freelands
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

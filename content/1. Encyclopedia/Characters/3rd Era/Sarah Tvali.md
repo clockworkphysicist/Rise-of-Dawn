@@ -10,7 +10,7 @@ modified: 2025-12-22T14:59:00.892-06:00
 >
 > # <font size=3>_Knowledge is Power_</font>
 >
-> ![[z_Assets/Chara/Sarah.png]]
+> ![[Assets/Chara/Sarah.png]]
 >
 > ###### Basic Information
 >

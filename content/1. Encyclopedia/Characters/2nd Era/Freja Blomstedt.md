@@ -10,7 +10,7 @@ modified: 2025-10-05T17:05:52.609-05:00
 >
 > # <font size=3>_Den blomstertid nu kommer_</font>
 >
-> ![[z_Assets/Chara/Freja.png]]
+> ![[Assets/Chara/Freja.png]]
 >
 > ###### Basic Information
 >

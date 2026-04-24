@@ -10,7 +10,7 @@ modified: 2026-04-19T14:00:57.814-05:00
 >
 > # <font size=3>_An Exhibit of Life_</font>
 >
-> ![[z_Assets/Chara/Edmund F. Quill.png]]
+> ![[Assets/Chara/Edmund F. Quill.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2025-12-17T18:34:22.195-06:00
 >
 > # <font size=3>_One with Earth and Sky_</font>
 >
-> ![[z_Assets/Chara/Na'wa'nata.png]]
+> ![[Assets/Chara/Na'wa'nata.png]]
 >
 > ###### Basic Information
 >

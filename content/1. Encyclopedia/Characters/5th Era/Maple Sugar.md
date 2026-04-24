@@ -10,7 +10,7 @@ modified: 2026-04-16T13:46:26.922-05:00
 >
 > # <font size=3>_Suicidal Empathy_</font>
 >
-> ![[z_Assets/Chara/Maple Sugar.png]]
+> ![[Assets/Chara/Maple Sugar.png]]
 >
 > ###### Basic Information
 >

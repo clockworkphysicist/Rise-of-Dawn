@@ -10,7 +10,7 @@ modified: 2026-04-13T19:27:05.139-05:00
 >
 > # <font size=3>_The Mouse that Belled the Cat_</font>
 >
-> ![[z_Assets/Chara/Velvette.png]]
+> ![[Assets/Chara/Velvette.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T00:04:04.073-05:00
 >
 > # <font size=3>_For God and Country I'll End Your Life_</font>
 >
-> ![[z_Assets/Chara/Richard.png]]
+> ![[Assets/Chara/Richard.png]]
 >
 > ###### Basic Information
 >

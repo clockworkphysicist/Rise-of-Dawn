@@ -10,7 +10,7 @@ modified: 2025-10-11T10:29:43.816-05:00
 >
 > # <font size=3>_Resting Comfortably_</font>
 >
-> ![[z_Assets/Chara/Fýlakasta.png]]
+> ![[Assets/Chara/Fýlakasta.png]]
 >
 > ###### Basic Information
 >

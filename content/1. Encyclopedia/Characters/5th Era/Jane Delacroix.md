@@ -10,7 +10,7 @@ modified: 2026-04-14T14:14:29.582-05:00
 >
 > # <font size=3>_Simply Not There_</font>
 >
-> ![[z_Assets/Chara/Jane.png]]
+> ![[Assets/Chara/Jane.png]]
 >
 > ###### Basic Information
 >

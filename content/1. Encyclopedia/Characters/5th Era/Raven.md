@@ -10,7 +10,7 @@ modified: 2026-04-16T23:21:08.843-05:00
 >
 > # <font size=3>_Burn It Down, If You Must_</font>
 >
-> ![[z_Assets/Chara/Raven.png]]
+> ![[Assets/Chara/Raven.png]]
 >
 > ###### Basic Information
 >

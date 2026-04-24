@@ -10,7 +10,7 @@ modified: 2026-04-19T13:50:11.581-05:00
 >
 > # <font size=3>_Speed of Light_</font>
 >
-> ![[z_Assets/Chara/Noel.png]]
+> ![[Assets/Chara/Noel.png]]
 >
 > ###### Basic Information
 >

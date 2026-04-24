@@ -10,7 +10,7 @@ modified: 2026-04-19T11:47:23.420-05:00
 >
 > # <font size=3>_Talking to the Moon_</font>
 >
-> ![[z_Assets/Chara/Marissa.png]]
+> ![[Assets/Chara/Marissa.png]]
 >
 > ###### Basic Information
 >

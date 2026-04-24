@@ -10,7 +10,7 @@ modified: 2025-08-17T20:17:14.347-05:00
 >
 > # <font size=3>_Stout as she is Loud_</font>
 >
-> ![[z_Assets/Chara/Tydwilly.png]]
+> ![[Assets/Chara/Tydwilly.png]]
 >
 > ###### Basic Information
 >

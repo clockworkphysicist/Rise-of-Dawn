@@ -10,7 +10,7 @@ modified: 2026-04-17T00:29:47.001-05:00
 >
 > # <font size=3>_Whore Madonna_</font>
 >
-> ![[z_Assets/Chara/Samantha.png]]
+> ![[Assets/Chara/Samantha.png]]
 >
 > ###### Basic Information
 >

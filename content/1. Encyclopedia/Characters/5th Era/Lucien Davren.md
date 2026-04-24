@@ -10,7 +10,7 @@ modified: 2026-04-14T14:31:45.155-05:00
 >
 > # <font size=3>_A More Mundane Madness_</font>
 >
-> ![[z_Assets/Chara/Lucien Davren.png]]
+> ![[Assets/Chara/Lucien Davren.png]]
 >
 > ###### Basic Information
 >

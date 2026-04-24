@@ -10,7 +10,7 @@ modified: 2026-04-16T18:48:13.215-05:00
 >
 > # <font size=3>_Certainty in Silence_</font>
 >
-> ![[z_Assets/Chara/Mariam.png]]
+> ![[Assets/Chara/Mariam.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-17T11:25:02.344-05:00
 >
 > # <font size=3>_Can't Catch a Break_</font>
 >
-> ![[z_Assets/Chara/Pavet.png]]
+> ![[Assets/Chara/Pavet.png]]
 >
 > ###### Basic Information
 >

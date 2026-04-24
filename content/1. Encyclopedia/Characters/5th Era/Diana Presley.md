@@ -10,7 +10,7 @@ modified: 2026-04-14T13:38:33.613-05:00
 >
 > # <font size=3>_Just Dance_</font>
 >
-> ![[z_Assets/Chara/Diana.png]]
+> ![[Assets/Chara/Diana.png]]
 >
 > ###### Basic Information
 >

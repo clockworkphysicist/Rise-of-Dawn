@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T03:24:21.846-05:00
-modified: 2025-08-28T13:28:32.908-05:00
+modified: 2026-04-21T10:34:12.257-05:00
 ---
 
 > [!infobox]
 >
 > # Hurricos
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

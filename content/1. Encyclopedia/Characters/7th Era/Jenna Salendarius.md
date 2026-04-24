@@ -10,7 +10,7 @@ modified: 2026-04-19T11:21:14.863-05:00
 >
 > # <font size=3>_From the ground up_</font>
 >
-> ![[z_Assets/Chara/Jenna.png]]
+> ![[Assets/Chara/Jenna.png]]
 >
 > ###### Basic Information
 >

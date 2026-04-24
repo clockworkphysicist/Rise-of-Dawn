@@ -10,7 +10,7 @@ modified: 2026-04-19T12:06:02.563-05:00
 >
 > # <font size=3>_Landscape of Sound_</font>
 >
-> ![[z_Assets/Chara/Mjyam-Yii.png]]
+> ![[Assets/Chara/Mjyam-Yii.png]]
 >
 > ###### Basic Information
 >

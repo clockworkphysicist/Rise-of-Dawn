@@ -10,7 +10,7 @@ modified: 2025-12-22T14:53:29.817-06:00
 >
 > # <font size=3>_The Survivor Princess_</font>
 >
-> ![[z_Assets/Chara/Rina.png]]
+> ![[Assets/Chara/Rina.png]]
 >
 > ###### Basic Information
 >

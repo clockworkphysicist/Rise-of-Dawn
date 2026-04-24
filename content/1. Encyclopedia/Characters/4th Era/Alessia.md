@@ -10,7 +10,7 @@ modified: 2026-04-14T10:32:16.814-05:00
 >
 > # <font size=3>_Sacred Blood_</font>
 >
-> ![[z_Assets/Chara/Alessia.png]]
+> ![[Assets/Chara/Alessia.png]]
 >
 > ###### Basic Information
 >

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-08-17T15:52:15.870-05:00
-modified: 2025-08-17T16:17:00.256-05:00
+modified: 2026-04-21T10:34:13.723-05:00
 ---
 
 > [!infobox]
@@ -10,7 +10,7 @@ modified: 2025-08-17T16:17:00.256-05:00
 >
 > # <font size=3>_asjfbeafhbsdohsbfhsdbgoabdf_</font>
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

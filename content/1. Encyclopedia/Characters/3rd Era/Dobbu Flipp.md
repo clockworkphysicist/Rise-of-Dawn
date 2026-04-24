@@ -10,7 +10,7 @@ modified: 2025-10-07T12:35:53.226-05:00
 >
 > # <font size=3>_Making and Unmaking That Which Is_</font>
 >
-> ![[z_Assets/Chara/Dobbu (Ezarus).png]]
+> ![[Assets/Chara/Dobbu (Ezarus).png]]
 >
 > ###### Basic Information
 >

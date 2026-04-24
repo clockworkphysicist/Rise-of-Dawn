@@ -10,7 +10,7 @@ modified: 2025-10-12T02:05:29.063-05:00
 >
 > # <font size=3>_Field of Paper Flowers_</font>
 >
-> ![[z_Assets/Chara/Ikbal.png]]
+> ![[Assets/Chara/Ikbal.png]]
 >
 > ###### Basic Information
 >

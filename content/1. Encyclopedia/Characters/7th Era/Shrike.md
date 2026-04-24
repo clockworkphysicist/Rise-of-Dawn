@@ -10,7 +10,7 @@ modified: 2026-04-19T12:47:00.657-05:00
 >
 > # <font size=3>_You Are Not Forgotten_</font>
 >
-> ![[z_Assets/Chara/Shrike.png]]
+> ![[Assets/Chara/Shrike.png]]
 >
 > ###### Basic Information
 >

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T13:47:23.678-05:00
-modified: 2025-08-28T13:49:49.684-05:00
+modified: 2026-04-21T10:34:12.609-05:00
 ---
 
 > [!infobox]
 >
 > # The Brumble Farms Astronaut Ice-cream Incident
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

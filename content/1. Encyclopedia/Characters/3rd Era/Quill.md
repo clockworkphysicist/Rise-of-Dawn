@@ -10,7 +10,7 @@ modified: 2025-12-22T12:22:54.481-06:00
 >
 > # <font size=3>_The Torn Page_</font>
 >
-> ![[z_Assets/Chara/Quill.png]]
+> ![[Assets/Chara/Quill.png]]
 >
 > ###### Basic Information
 >

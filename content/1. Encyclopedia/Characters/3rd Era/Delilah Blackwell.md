@@ -10,7 +10,7 @@ modified: 2026-04-11T00:37:03.956-05:00
 >
 > # <font size=3>_The Great Equalizer_</font>
 >
-> ![[z_Assets/Chara/Delilah.png]]
+> ![[Assets/Chara/Delilah.png]]
 >
 > ###### Basic Information
 >

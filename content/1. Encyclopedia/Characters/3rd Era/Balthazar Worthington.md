@@ -10,7 +10,7 @@ modified: 2025-10-05T18:52:23.765-05:00
 >
 > # <font size=3>_Bumbling Boisterous Banker_</font>
 >
-> ![[z_Assets/Chara/Balthazar.png]]
+> ![[Assets/Chara/Balthazar.png]]
 >
 > ###### Basic Information
 >

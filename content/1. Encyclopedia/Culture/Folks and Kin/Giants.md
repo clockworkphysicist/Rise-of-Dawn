@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T01:56:06.885-05:00
-modified: 2025-08-28T13:28:42.228-05:00
+modified: 2026-04-21T10:34:12.235-05:00
 ---
 
 > [!infobox]
 >
 > # Giants
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T12:54:58.167-05:00
 >
 > # <font size=3>_No Me Frego_</font>
 >
-> ![[z_Assets/Chara/Antonio.png]]
+> ![[Assets/Chara/Antonio.png]]
 >
 > ###### Basic Information
 >

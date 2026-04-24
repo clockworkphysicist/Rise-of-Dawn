@@ -10,7 +10,7 @@ modified: 2026-04-19T11:44:18.303-05:00
 >
 > # <font size=3>_Pathways of the Mind_</font>
 >
-> ![[z_Assets/Chara/Ladaya.png]]
+> ![[Assets/Chara/Ladaya.png]]
 >
 > ###### Basic Information
 >

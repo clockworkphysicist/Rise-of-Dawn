@@ -10,7 +10,7 @@ modified: 2025-10-04T02:37:52.524-05:00
 >
 > # <font size=3>_The First of the Mystics_</font>
 >
-> ![[z_Assets/Chara/Mortimer.png]]
+> ![[Assets/Chara/Mortimer.png]]
 >
 > ###### Basic Information
 >

@@ -10,7 +10,7 @@ modified: 2026-04-14T13:16:31.279-05:00
 >
 > # <font size=3>_Claw to the Top_</font>
 >
-> ![[z_Assets/Chara/Banna.png]]
+> ![[Assets/Chara/Banna.png]]
 >
 > ###### Basic Information
 >

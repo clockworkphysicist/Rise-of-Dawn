@@ -10,7 +10,7 @@ modified: 2026-04-14T14:04:02.536-05:00
 >
 > # <font size=3>_The Cure-All_</font>
 >
-> ![[z_Assets/Chara/Herman.png]]
+> ![[Assets/Chara/Herman.png]]
 >
 > ###### Basic Information
 >

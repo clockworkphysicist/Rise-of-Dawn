@@ -10,7 +10,7 @@ modified: 2026-04-19T12:45:09.595-05:00
 >
 > # <font size=3>_Guidance in Solitude_</font>
 >
-> ![[z_Assets/Chara/Sam.png]]
+> ![[Assets/Chara/Sam.png]]
 >
 > ###### Basic Information
 >

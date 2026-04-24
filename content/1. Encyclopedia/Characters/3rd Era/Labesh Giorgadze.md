@@ -10,7 +10,7 @@ modified: 2025-10-12T02:49:06.091-05:00
 >
 > # <font size=3>_Home on the Open Road_</font>
 >
-> ![[z_Assets/Chara/Labesh.png]]
+> ![[Assets/Chara/Labesh.png]]
 >
 > ###### Basic Information
 >

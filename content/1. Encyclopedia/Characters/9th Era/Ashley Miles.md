@@ -10,7 +10,7 @@ modified: 2026-04-17T12:04:46.277-05:00
 >
 > # <font size=3>_The Good Doctor_</font>
 >
-> ![[z_Assets/Chara/Ashley.png]]
+> ![[Assets/Chara/Ashley.png]]
 >
 > ###### Basic Information
 >

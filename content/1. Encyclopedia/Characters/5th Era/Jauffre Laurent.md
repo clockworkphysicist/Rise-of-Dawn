@@ -10,7 +10,7 @@ modified: 2026-04-14T14:19:03.910-05:00
 >
 > # <font size=3>_An Interested Person_</font>
 >
-> ![[z_Assets/Chara/Jauffre.png]]
+> ![[Assets/Chara/Jauffre.png]]
 >
 > ###### Basic Information
 >

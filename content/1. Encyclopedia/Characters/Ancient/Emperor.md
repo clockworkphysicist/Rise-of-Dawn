@@ -10,7 +10,7 @@ modified: 2026-04-10T22:16:58.736-05:00
 >
 > # <font size=3>_Leadership and Tyranny_</font>
 >
-> ![[z_Assets/Chara/4 IV, The Emperor.png]]
+> ![[Assets/Chara/4 IV, The Emperor.png]]
 >
 > ###### Basic Information
 >

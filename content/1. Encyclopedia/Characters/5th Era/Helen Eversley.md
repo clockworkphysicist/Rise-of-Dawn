@@ -10,7 +10,7 @@ modified: 2026-04-14T14:02:52.317-05:00
 >
 > # <font size=3>_Break These Heavy Chains_</font>
 >
-> ![[z_Assets/Chara/Helen.png]]
+> ![[Assets/Chara/Helen.png]]
 >
 > ###### Basic Information
 >

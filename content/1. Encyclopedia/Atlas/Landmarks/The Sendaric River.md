@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T13:41:51.152-05:00
-modified: 2025-08-28T13:42:53.456-05:00
+modified: 2026-04-21T10:34:11.530-05:00
 ---
 
 > [!infobox]
 >
 > # The Sendaric River
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

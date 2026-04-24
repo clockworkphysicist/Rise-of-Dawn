@@ -10,7 +10,7 @@ modified: 2025-12-22T21:14:04.528-06:00
 >
 > # <font size=3>_Renewal and Reagents_</font>
 >
-> ![[z_Assets/Chara/Talia.png]]
+> ![[Assets/Chara/Talia.png]]
 >
 > ###### Basic Information
 >

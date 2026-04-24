@@ -10,7 +10,7 @@ modified: 2026-04-14T13:00:35.101-05:00
 >
 > # <font size=3>_Seeking the Lost_</font>
 >
-> ![[z_Assets/Chara/Avish.png]]
+> ![[Assets/Chara/Avish.png]]
 >
 > ###### Basic Information
 >

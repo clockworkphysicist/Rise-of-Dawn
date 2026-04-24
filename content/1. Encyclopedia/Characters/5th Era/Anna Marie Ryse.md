@@ -10,7 +10,7 @@ modified: 2026-04-14T12:53:36.351-05:00
 >
 > # <font size=3>_Take What You Can Get_</font>
 >
-> ![[z_Assets/Chara/Anna Marie.png]]
+> ![[Assets/Chara/Anna Marie.png]]
 >
 > ###### Basic Information
 >

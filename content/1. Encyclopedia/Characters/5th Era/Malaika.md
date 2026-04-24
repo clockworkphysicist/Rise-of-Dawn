@@ -10,7 +10,7 @@ modified: 2026-04-16T13:36:48.478-05:00
 >
 > # <font size=3>_Angel of the Morning_</font>
 >
-> ![[z_Assets/Chara/Malaika.png]]
+> ![[Assets/Chara/Malaika.png]]
 >
 > ###### Basic Information
 >

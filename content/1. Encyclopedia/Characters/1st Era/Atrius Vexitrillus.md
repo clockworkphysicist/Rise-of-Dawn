@@ -10,7 +10,7 @@ modified: 2025-10-05T15:51:43.279-05:00
 >
 > # <font size=3>_Superior Blood, Superior Mind_</font>
 >
-> ![[z_Assets/Chara/Atrius.png]]
+> ![[Assets/Chara/Atrius.png]]
 >
 > ###### Basic Information
 >

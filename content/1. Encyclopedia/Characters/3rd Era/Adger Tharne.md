@@ -10,7 +10,7 @@ modified: 2025-08-17T22:16:29.293-05:00
 >
 > # <font size=3>_Sardonic Wand-Maker_</font>
 >
-> ![[z_Assets/Chara/Adger.png]]
+> ![[Assets/Chara/Adger.png]]
 >
 > ###### Basic Information
 >

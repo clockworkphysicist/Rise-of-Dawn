@@ -10,7 +10,7 @@ modified: 2026-04-14T14:21:55.292-05:00
 >
 > # <font size=3>_Fire At Will_</font>
 >
-> ![[z_Assets/Chara/Keith.png]]
+> ![[Assets/Chara/Keith.png]]
 >
 > ###### Basic Information
 >

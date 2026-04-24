@@ -10,7 +10,7 @@ modified: 2026-04-14T12:56:06.951-05:00
 >
 > # <font size=3>_I Cry, I Pray, Mon Dieu_</font>
 >
-> ![[z_Assets/Chara/Arelia.png]]
+> ![[Assets/Chara/Arelia.png]]
 >
 > ###### Basic Information
 >

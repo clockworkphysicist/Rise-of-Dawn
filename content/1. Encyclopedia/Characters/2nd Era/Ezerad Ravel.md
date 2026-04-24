@@ -10,7 +10,7 @@ modified: 2026-04-11T00:00:44.163-05:00
 >
 > # <font size=3>_The Bloodflame Champion_</font>
 >
-> ![[z_Assets/Chara/Ravel.png]]
+> ![[Assets/Chara/Ravel.png]]
 >
 > ###### Basic Information
 >

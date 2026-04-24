@@ -10,7 +10,7 @@ modified: 2026-04-17T11:08:32.784-05:00
 >
 > # <font size=3>_Flaming Hot_</font>
 >
-> ![[z_Assets/Chara/Agbrah.png]]
+> ![[Assets/Chara/Agbrah.png]]
 >
 > ###### Basic Information
 >

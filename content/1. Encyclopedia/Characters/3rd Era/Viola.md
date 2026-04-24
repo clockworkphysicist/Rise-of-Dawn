@@ -10,7 +10,7 @@ modified: 2026-04-13T19:20:49.701-05:00
 >
 > # <font size=3>_Concubine of Fate_</font>
 >
-> ![[z_Assets/Chara/Viola.png]]
+> ![[Assets/Chara/Viola.png]]
 >
 > ###### Basic Information
 >

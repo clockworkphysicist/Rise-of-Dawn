@@ -10,7 +10,7 @@ modified: 2025-08-17T20:24:20.875-05:00
 >
 > # <font size=3>_The Revenant_</font>
 >
-> ![[z_Assets/Chara/Veronica.png]]
+> ![[Assets/Chara/Veronica.png]]
 >
 > ###### Basic Information
 >

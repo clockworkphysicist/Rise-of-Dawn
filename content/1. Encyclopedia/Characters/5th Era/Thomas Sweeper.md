@@ -10,7 +10,7 @@ modified: 2026-04-17T09:52:43.934-05:00
 >
 > # <font size=3>_I Must Know_</font>
 >
-> ![[z_Assets/Chara/Thomas Sweeper.png]]
+> ![[Assets/Chara/Thomas Sweeper.png]]
 >
 > ###### Basic Information
 >

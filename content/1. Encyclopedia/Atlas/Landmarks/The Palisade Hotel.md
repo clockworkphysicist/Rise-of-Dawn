@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-28T13:51:32.982-05:00
-modified: 2025-08-28T13:51:45.236-05:00
+modified: 2026-04-21T10:34:11.520-05:00
 ---
 
 > [!infobox]
 >
 > # The Palisade Hotel
 >
-> ![[z_Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
+> ![[Assets/Misc/ImagePlaceholder.webp|cover hsmall]]
 >
 > ###### Basic Information
 >

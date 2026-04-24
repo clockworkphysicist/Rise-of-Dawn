@@ -10,7 +10,7 @@ modified: 2026-04-17T11:12:13.935-05:00
 >
 > # <font size=3>_It's Just Show Business_</font>
 >
-> ![[z_Assets/Chara/Mac.png]]
+> ![[Assets/Chara/Mac.png]]
 >
 > ###### Basic Information
 >

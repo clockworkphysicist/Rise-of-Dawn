@@ -10,7 +10,7 @@ modified: 2026-04-19T10:22:01.395-05:00
 >
 > # <font size=3>_Monster in the dark_</font>
 >
-> ![[z_Assets/Chara/Jack.png]]
+> ![[Assets/Chara/Jack.png]]
 >
 > ###### Basic Information
 >
