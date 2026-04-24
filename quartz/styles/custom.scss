@@ -2,14 +2,14 @@
 @use "./syncer";
 
 // put your custom CSS here!
+body  {
+  background-image: url("https://images.uesp.net/7/77/UESP-Parchment_Background.jpg");
+  background-color: #cccccc;
+}
 @font-face {
   font-family: "Cyrodiil";
   font-style: normal;
   font-weight: normal;
   font-display: swap;
   src: url("/static/Cyrodiil.otf") format("otf");
-}
-
-body {
-  background: lightblue url("img_tree.gif") no-repeat fixed center;
 }
