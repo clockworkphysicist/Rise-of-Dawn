@@ -8,8 +8,7 @@ body  {
 }
 @font-face {
   font-family: "Cyrodiil";
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url("/static/Cyrodiil.otf") format("otf");
+  src:
+    local("Cyrodiil"),
+    url("cyrodiil.otf") format("opentype") tech(color-COLRv1),
 }
